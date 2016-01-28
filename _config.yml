@@ -1,7 +1,7 @@
 name: Canik
 favicon: null
-layout_spectrum: 0.3473026098217815
-typography_spectrum: 0.2663694724906236
+layout_spectrum: 0.74277
+typography_spectrum: 0.34537
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.24601289187557995
-  lightness: 0.27242051088251173
-  saturation: 0.9108394011855125
-  rhythmicContrast: 0.6293510796967894
+    - '#ebebeb'
+    - '#613cdd'
+    - '#b2b935'
+    - '#eaf439'
+    - '#b96435'
+  brandStrength: 0.25
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
