@@ -1,29 +1,41 @@
-name: Canik
-favicon: null
-layout_spectrum: 0.74277
-typography_spectrum: 0.34537
 title: 'Canik '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.5501792
+  lightness: 1
+  brandColors:
+    - '#ECECEC'
+    - '#4C33A3'
+    - '#C5CD37'
+    - '#9F25F4'
+    - '#76D659'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-808807-2
   facebook: null
-  twitter: null
+favicon: null
+name: Canik
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ebebeb'
-    - '#613cdd'
-    - '#b2b935'
-    - '#eaf439'
-    - '#b96435'
-  brandStrength: 0.25
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.4677419
+layout_spectrum: 0.781362
