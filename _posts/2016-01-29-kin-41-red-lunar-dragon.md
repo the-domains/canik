@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T18:58:05.246Z'
-dateModified: '2016-01-29T18:57:49.857Z'
+datePublished: '2016-01-29T19:01:28.474Z'
+dateModified: '2016-01-29T19:01:25.437Z'
 title: KIN 41 Red Lunar Dragon
 author: []
+sourcePath: _posts/2016-01-29-kin-41-red-lunar-dragon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-kin-41-red-lunar-dragon.md
-published: true
 url: kin-41-red-lunar-dragon/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58469fb2-e1da-4068-85bb-05de8b46c7d3.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f0639625caf3505ce5cb1a954b4457ed3f0380e.png)
 
 # KIN 41 Red Lunar Dragon
 
