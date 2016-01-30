@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T11:48:29.963Z'
-dateModified: '2016-01-30T11:48:09.778Z'
+datePublished: '2016-01-30T11:54:16.880Z'
+dateModified: '2016-01-30T11:54:12.616Z'
 title: KIN 42 White Electric Wind
 author: []
 sourcePath: _posts/2016-01-30-kin-42-white-electric-wind.md
@@ -22,7 +22,7 @@ url: kin-42-white-electric-wind/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84c74dcd-e53e-4546-8103-f16ae88dc6a8.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b001255c2b16a802dac27cbb932b9e4747574ef.png)
 
 # KIN 42 White Electric Wind
 
