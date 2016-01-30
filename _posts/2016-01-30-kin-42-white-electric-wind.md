@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T11:54:16.880Z'
+datePublished: '2016-01-30T11:54:16.908Z'
 dateModified: '2016-01-30T11:54:12.616Z'
 title: KIN 42 White Electric Wind
 author: []
