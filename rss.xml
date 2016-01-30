@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 21:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 11:04:33 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 29 Jan 2016 21:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 42 White Electric Wind]]></title>
+            <description><![CDATA[<h1>KIN 42 White Electric Wind</h1>]]></description>
+            <link>http://canik.nl/kin-42-white-electric-wind/index.html</link>
+            <guid isPermaLink="false">d6ae669e-621e-45e3-811b-bceef984410b</guid>
+            <pubDate>Sat, 30 Jan 2016 11:03:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[White Wizard Wavespell]]></title>
