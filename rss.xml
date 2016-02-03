@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 21:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 21:20:55 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 29 Jan 2016 21:18:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 47 Blue Galactic Hand]]></title>
+            <description><![CDATA[<article><h1>KIN 47 Blue Galactic Hand</h1><p>I Harmonize in Order to Know</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/476b0196-f78d-49da-abe5-226eec8c9367.png"></article>]]></description>
+            <link>http://canik.nl/kin-47-blue-galactic-hand/index.html</link>
+            <guid isPermaLink="false">aca30662-858d-437a-aef5-f9f56cb4cef4</guid>
+            <pubDate>Wed, 03 Feb 2016 21:20:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 46 White Resonant World-Bridger]]></title>
-            <description><![CDATA[<article><h1>KIN 46 White Resonant World-Bridger</h1><p>I Channel in Order to Equalize</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30e9c1fc-d875-434c-ba23-bbd900b152eb.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 46 White Resonant World-Bridger</h1><p>I Channel in Order to Equalize</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/544bfdc64b9f98628e9e414272b9e258fddcde07.png"></article>]]></description>
             <link>http://canik.nl/kin-46-white-resonant-world-bridger/index.html</link>
             <guid isPermaLink="false">2cba5cff-f129-46d9-8674-ecc635d3fc5c</guid>
             <pubDate>Tue, 02 Feb 2016 21:06:03 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-41-red-lunar-dragon/index.html</link>
             <guid isPermaLink="false">2107b5db-cfdc-4572-8826-c06082814496</guid>
             <pubDate>Fri, 29 Jan 2016 19:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 40 Yellow Magnetic Sun]]></title>
-            <description><![CDATA[<article><h1>KIN 40 Yellow Magnetic Sun</h1><p>I Unify in Order to Enlighten</p></article>]]></description>
-            <link>http://canik.nl/kin-40-yellow-magnetic-sun/index.html</link>
-            <guid isPermaLink="false">6296097d-cf83-4fa9-aac4-2ed43159bc30</guid>
-            <pubDate>Fri, 29 Jan 2016 19:00:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
