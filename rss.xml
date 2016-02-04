@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 21:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 21:46:21 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 29 Jan 2016 21:18:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 48 Yellow Solar Star]]></title>
+            <description><![CDATA[<article><h1>KIN 48 Yellow Solar Star</h1><p>I Pulse in Order to Beautify</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/809c0970-9465-4a96-b6c9-118bbcd90a99.png"></article>]]></description>
+            <link>http://canik.nl/kin-48-yellow-solar-star/index.html</link>
+            <guid isPermaLink="false">eb4364ea-478e-41fd-a9e4-1d8ea940e025</guid>
+            <pubDate>Thu, 04 Feb 2016 21:46:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 47 Blue Galactic Hand]]></title>
-            <description><![CDATA[<article><h1>KIN 47 Blue Galactic Hand</h1><p>I Harmonize in Order to Know</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/476b0196-f78d-49da-abe5-226eec8c9367.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 47 Blue Galactic Hand</h1><p>I Harmonize in Order to Know</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd16c39ac286420432ec00364e736bfb2bff641c.png"></article>]]></description>
             <link>http://canik.nl/kin-47-blue-galactic-hand/index.html</link>
             <guid isPermaLink="false">aca30662-858d-437a-aef5-f9f56cb4cef4</guid>
             <pubDate>Wed, 03 Feb 2016 21:20:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/martin-kuipers/blue-hand-wavespell</link>
             <guid isPermaLink="false">982b8c87-96d7-403d-99ae-799c076b631e</guid>
             <pubDate>Fri, 29 Jan 2016 21:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 41 Red Lunar Dragon]]></title>
-            <description><![CDATA[<article><h1>KIN 41 Red Lunar Dragon</h1><p>I Polarize in order to Nurture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbaf4c4ef278c9a6deafd9cebd3f9be6eca65944.png"></article>]]></description>
-            <link>http://canik.nl/kin-41-red-lunar-dragon/index.html</link>
-            <guid isPermaLink="false">2107b5db-cfdc-4572-8826-c06082814496</guid>
-            <pubDate>Fri, 29 Jan 2016 19:01:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
