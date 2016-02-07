@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 21:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 22:17:32 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 51 Blue Crystal Monkey]]></title>
+            <description><![CDATA[<article><h1>KIN 51 Blue Crystal Monkey</h1><p>I Dedicate in Order to Play</p></article>]]></description>
+            <link>http://canik.nl/kin-51-blue-crystal-monkey/index.html</link>
+            <guid isPermaLink="false">15b5c444-29d5-4fe3-92e7-9dec015e6a13</guid>
+            <pubDate>Sun, 07 Feb 2016 22:15:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 50 White Spectral Dog]]></title>
-            <description><![CDATA[<article><h1>KIN 50 White Spectral Dog</h1><p>I Dissolve in Order to Love</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cb41976-522c-4ff8-b97a-7ce30bab2cbd.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 50 White Spectral Dog</h1><p>I Dissolve in Order to Love</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c03c7ed2b598afbf82adbf481289c1dbb83ba18.png"></article>]]></description>
             <link>http://canik.nl/kin-50-white-spectral-dog/index.html</link>
             <guid isPermaLink="false">f67a841e-375d-4876-8f33-5b99c9f09dca</guid>
             <pubDate>Sat, 06 Feb 2016 21:34:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-43-blue-self-existing-night/index.html</link>
             <guid isPermaLink="false">cf054ae8-b7ad-4712-ab2c-e8b3306111a5</guid>
             <pubDate>Sun, 31 Jan 2016 12:58:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 42 White Electric Wind]]></title>
-            <description><![CDATA[<article><h1>KIN 42 White Electric Wind</h1><p>I Activate in Order to Communicate</p></article>]]></description>
-            <link>http://canik.nl/kin-42-white-electric-wind/index.html</link>
-            <guid isPermaLink="false">d6ae669e-621e-45e3-811b-bceef984410b</guid>
-            <pubDate>Sat, 30 Jan 2016 11:54:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
