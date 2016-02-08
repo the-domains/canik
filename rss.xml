@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 22:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 21:41:48 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 52 Yellow Cosmic Human]]></title>
+            <description><![CDATA[<article><h1>KIN 52 Yellow Cosmic Human</h1><p>I Endure in Order to Influence</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77fa444-4cd3-4fa3-835a-ee589c4f9023.png"></article>]]></description>
+            <link>http://canik.nl/kin-52-yellow-cosmic-human/index.html</link>
+            <guid isPermaLink="false">d7405290-3f60-4e52-b257-2dd7b852d233</guid>
+            <pubDate>Mon, 08 Feb 2016 21:40:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 51 Blue Crystal Monkey]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-44-yellow-overtone-seed/index.html</link>
             <guid isPermaLink="false">c77f0c33-ef4c-4ef2-8991-83e960db4f1a</guid>
             <pubDate>Mon, 01 Feb 2016 08:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 43 Blue Self-Existing Night ]]></title>
-            <description><![CDATA[<article><h1>KIN 43 Blue Self-Existing Night </h1><p>I Define in Order to Dream </p></article>]]></description>
-            <link>http://canik.nl/kin-43-blue-self-existing-night/index.html</link>
-            <guid isPermaLink="false">cf054ae8-b7ad-4712-ab2c-e8b3306111a5</guid>
-            <pubDate>Sun, 31 Jan 2016 12:58:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
