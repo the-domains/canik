@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 21:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 22:11:56 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 53 Red Magnetic Skywalker]]></title>
+            <description><![CDATA[<article><h1>KIN 53 Red Magnetic Skywalker</h1><p>I Unify in Order to Explore</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f4e34d6-8b76-4bb6-a9e8-fefe79914be8.png"></article>]]></description>
+            <link>http://canik.nl/kin-53-red-magnetic-skywalker/index.html</link>
+            <guid isPermaLink="false">00ade4d0-e5c0-4beb-99a6-553f2dcadd0b</guid>
+            <pubDate>Tue, 09 Feb 2016 22:01:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 52 Yellow Cosmic Human]]></title>
-            <description><![CDATA[<article><h1>KIN 52 Yellow Cosmic Human</h1><p>I Endure in Order to Influence</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77fa444-4cd3-4fa3-835a-ee589c4f9023.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 52 Yellow Cosmic Human</h1><p>I Endure in Order to Influence</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/997f830809d027260f30934dbabefc9eba7dde23.png"></article>]]></description>
             <link>http://canik.nl/kin-52-yellow-cosmic-human/index.html</link>
             <guid isPermaLink="false">d7405290-3f60-4e52-b257-2dd7b852d233</guid>
             <pubDate>Mon, 08 Feb 2016 21:40:03 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-45-red-rhythmic-serpent/index.html</link>
             <guid isPermaLink="false">09f46b70-1017-445d-8ece-74cc58ee354c</guid>
             <pubDate>Mon, 01 Feb 2016 20:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 44 Yellow Overtone Seed]]></title>
-            <description><![CDATA[<article><h1>KIN 44 Yellow Overtone Seed</h1><p>I Empower in Order to Target</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f526766b829f5c593d34e1862403d3a248f77961.png"></article>]]></description>
-            <link>http://canik.nl/kin-44-yellow-overtone-seed/index.html</link>
-            <guid isPermaLink="false">c77f0c33-ef4c-4ef2-8991-83e960db4f1a</guid>
-            <pubDate>Mon, 01 Feb 2016 08:03:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
