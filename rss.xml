@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 21:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 21:28:59 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 55 Blue Electric Eagle]]></title>
+            <description><![CDATA[<article><h1>KIN 55 Blue Electric Eagle</h1><p>I Activate in Order to Create</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6518a41b122b2f4bc34560e787eea28d86ed6dc.png"></article>]]></description>
+            <link>http://canik.nl/kin-55-blue-electric-eagle/index.html</link>
+            <guid isPermaLink="false">e80e385f-3e20-49fc-b859-9085007ce32d</guid>
+            <pubDate>Thu, 11 Feb 2016 21:28:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 54 White Lunar Wizard]]></title>
-            <description><![CDATA[<article><h1>KIN 54 White Lunar Wizard</h1><p>I Polarize in Order to Enchant</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66b7e597-3dad-45f5-90b9-a6df646a3011.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 54 White Lunar Wizard</h1><p>I Polarize in Order to Enchant</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/255b0a3001e6965ebbbe064c8ef1529f0cbde77f.png"></article>]]></description>
             <link>http://canik.nl/kin-54-white-lunar-wizard/index.html</link>
             <guid isPermaLink="false">a0fca146-bdf0-4e0b-8656-2bcb9a61e33c</guid>
             <pubDate>Wed, 10 Feb 2016 21:46:08 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-47-blue-galactic-hand/index.html</link>
             <guid isPermaLink="false">aca30662-858d-437a-aef5-f9f56cb4cef4</guid>
             <pubDate>Wed, 03 Feb 2016 21:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 46 White Resonant World-Bridger]]></title>
-            <description><![CDATA[<article><h1>KIN 46 White Resonant World-Bridger</h1><p>I Channel in Order to Equalize</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/544bfdc64b9f98628e9e414272b9e258fddcde07.png"></article>]]></description>
-            <link>http://canik.nl/kin-46-white-resonant-world-bridger/index.html</link>
-            <guid isPermaLink="false">2cba5cff-f129-46d9-8674-ecc635d3fc5c</guid>
-            <pubDate>Tue, 02 Feb 2016 21:06:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
