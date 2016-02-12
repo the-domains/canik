@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 21:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 21:21:38 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 56 Yellow Self-Existing Warrior]]></title>
+            <description><![CDATA[<article><h1>KIN 56 Yellow Self-Existing Warrior</h1><p>I Define in Order to Question</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1ddc8ed-cf5d-4c88-b4a6-c9dfb5c9a426.png"></article>]]></description>
+            <link>http://canik.nl/kin-56-yellow-self-existing-warrior/index.html</link>
+            <guid isPermaLink="false">f41b2c11-b7a9-4783-b25b-b17316542c1a</guid>
+            <pubDate>Fri, 12 Feb 2016 21:20:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 55 Blue Electric Eagle]]></title>
-            <description><![CDATA[<article><h1>KIN 55 Blue Electric Eagle</h1><p>I Activate in Order to Create</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6518a41b122b2f4bc34560e787eea28d86ed6dc.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 55 Blue Electric Eagle</h1><p>I Activate in Order to Create</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b43f899a13bd15a2ed71165d0d3054d37e820965.png"></article>]]></description>
             <link>http://canik.nl/kin-55-blue-electric-eagle/index.html</link>
             <guid isPermaLink="false">e80e385f-3e20-49fc-b859-9085007ce32d</guid>
             <pubDate>Thu, 11 Feb 2016 21:28:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-48-yellow-solar-star/index.html</link>
             <guid isPermaLink="false">eb4364ea-478e-41fd-a9e4-1d8ea940e025</guid>
             <pubDate>Thu, 04 Feb 2016 21:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 47 Blue Galactic Hand]]></title>
-            <description><![CDATA[<article><h1>KIN 47 Blue Galactic Hand</h1><p>I Harmonize in Order to Know</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd16c39ac286420432ec00364e736bfb2bff641c.png"></article>]]></description>
-            <link>http://canik.nl/kin-47-blue-galactic-hand/index.html</link>
-            <guid isPermaLink="false">aca30662-858d-437a-aef5-f9f56cb4cef4</guid>
-            <pubDate>Wed, 03 Feb 2016 21:20:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
