@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 21:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 23:00:31 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 57 Red Overtone Earth]]></title>
+            <description><![CDATA[<article><h1>KIN 57 Red Overtone Earth</h1><p>I Empower in Order to Evolve</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdd3c3ac-4bd9-4b2d-b429-5911d0513a1f.png"></article>]]></description>
+            <link>http://canik.nl/kin-57-red-overtone-earth/index.html</link>
+            <guid isPermaLink="false">8d3cd300-5adc-479b-b396-c6121240cd60</guid>
+            <pubDate>Sat, 13 Feb 2016 22:58:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 56 Yellow Self-Existing Warrior]]></title>
-            <description><![CDATA[<article><h1>KIN 56 Yellow Self-Existing Warrior</h1><p>I Define in Order to Question</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1ddc8ed-cf5d-4c88-b4a6-c9dfb5c9a426.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 56 Yellow Self-Existing Warrior</h1><p>I Define in Order to Question</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a420a70400754a40294a7e5507a12c637feba759.png"></article>]]></description>
             <link>http://canik.nl/kin-56-yellow-self-existing-warrior/index.html</link>
             <guid isPermaLink="false">f41b2c11-b7a9-4783-b25b-b17316542c1a</guid>
             <pubDate>Fri, 12 Feb 2016 21:20:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-49-red-planetary-moon/index.html</link>
             <guid isPermaLink="false">72a4a1b8-b9d7-44fc-bb99-b9249aa20a41</guid>
             <pubDate>Fri, 05 Feb 2016 21:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 48 Yellow Solar Star]]></title>
-            <description><![CDATA[<article><h1>KIN 48 Yellow Solar Star</h1><p>I Pulse in Order to Beautify</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20bf00e86b2a1d484551918f7e46cc42a7850ca5.png"></article>]]></description>
-            <link>http://canik.nl/kin-48-yellow-solar-star/index.html</link>
-            <guid isPermaLink="false">eb4364ea-478e-41fd-a9e4-1d8ea940e025</guid>
-            <pubDate>Thu, 04 Feb 2016 21:46:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
