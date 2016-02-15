@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 21:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 22:32:03 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 59 Blue Resonant Storm]]></title>
+            <description><![CDATA[<article><h1>KIN 59 Blue Resonant Storm</h1><p>I Channel in Order to Catalyze</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4781d28-f54d-4bcc-adf7-c1a7b8b22a39.png"></article>]]></description>
+            <link>http://canik.nl/kin-59-blue-resonant-storm/index.html</link>
+            <guid isPermaLink="false">2fd96246-bfac-43a1-9fe2-3d5d249306ba</guid>
+            <pubDate>Mon, 15 Feb 2016 22:30:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 58 White Rhythmic Mirror]]></title>
-            <description><![CDATA[<article><h1>KIN 58 White Rhythmic Mirror</h1><p>I Organize in Order to Reflect</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f827827a-f15b-425c-9923-e6d3ab03f1c8.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 58 White Rhythmic Mirror</h1><p>I Organize in Order to Reflect</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3072c95fe8c3040b5ff9131257cd5ea0274f9143.png"></article>]]></description>
             <link>http://canik.nl/kin-58-white-rhythmic-mirror/index.html</link>
             <guid isPermaLink="false">808ee772-1e4d-4e7d-8c70-2f5103143a3d</guid>
             <pubDate>Sun, 14 Feb 2016 21:07:41 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-51-blue-crystal-monkey/index.html</link>
             <guid isPermaLink="false">15b5c444-29d5-4fe3-92e7-9dec015e6a13</guid>
             <pubDate>Sun, 07 Feb 2016 22:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 50 White Spectral Dog]]></title>
-            <description><![CDATA[<article><h1>KIN 50 White Spectral Dog</h1><p>I Dissolve in Order to Love</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c03c7ed2b598afbf82adbf481289c1dbb83ba18.png"></article>]]></description>
-            <link>http://canik.nl/kin-50-white-spectral-dog/index.html</link>
-            <guid isPermaLink="false">f67a841e-375d-4876-8f33-5b99c9f09dca</guid>
-            <pubDate>Sat, 06 Feb 2016 21:34:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
