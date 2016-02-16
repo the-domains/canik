@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 20:43:29 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 60 Yellow Galactic Sun]]></title>
+            <description><![CDATA[<article><h1>KIN 60 Yellow Galactic Sun</h1><p>I Harmonize in Order to Enlighten</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec9ae3e3-5fe0-4b8a-814b-793eea4065f8.png"></article>]]></description>
+            <link>http://canik.nl/kin-60-yellow-galactic-sun/index.html</link>
+            <guid isPermaLink="false">d2252c47-709b-4259-ba9c-1231d28d6899</guid>
+            <pubDate>Tue, 16 Feb 2016 20:43:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 59 Blue Resonant Storm]]></title>
-            <description><![CDATA[<article><h1>KIN 59 Blue Resonant Storm</h1><p>I Channel in Order to Catalyze</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4781d28-f54d-4bcc-adf7-c1a7b8b22a39.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 59 Blue Resonant Storm</h1><p>I Channel in Order to Catalyze</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec2147bded44a23ef6bd78101162387bbbe1e611.png"></article>]]></description>
             <link>http://canik.nl/kin-59-blue-resonant-storm/index.html</link>
             <guid isPermaLink="false">2fd96246-bfac-43a1-9fe2-3d5d249306ba</guid>
             <pubDate>Mon, 15 Feb 2016 22:30:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-52-yellow-cosmic-human/index.html</link>
             <guid isPermaLink="false">d7405290-3f60-4e52-b257-2dd7b852d233</guid>
             <pubDate>Mon, 08 Feb 2016 21:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 51 Blue Crystal Monkey]]></title>
-            <description><![CDATA[<article><h1>KIN 51 Blue Crystal Monkey</h1><p>I Dedicate in Order to Play</p></article>]]></description>
-            <link>http://canik.nl/kin-51-blue-crystal-monkey/index.html</link>
-            <guid isPermaLink="false">15b5c444-29d5-4fe3-92e7-9dec015e6a13</guid>
-            <pubDate>Sun, 07 Feb 2016 22:15:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
