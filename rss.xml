@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 20:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 21:54:02 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 61 Red Solar Dragon]]></title>
+            <description><![CDATA[<article><h1>KIN 61 Red Solar Dragon</h1><p>I Pulse in Order to Nurture</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d55db653-040f-4266-a256-db4770082b8b.png"></article>]]></description>
+            <link>http://canik.nl/kin-61-red-solar-dragon/index.html</link>
+            <guid isPermaLink="false">3271dc01-9dc8-4511-9eb9-3c59f508adf2</guid>
+            <pubDate>Wed, 17 Feb 2016 21:53:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 60 Yellow Galactic Sun]]></title>
-            <description><![CDATA[<article><h1>KIN 60 Yellow Galactic Sun</h1><p>I Harmonize in Order to Enlighten</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec9ae3e3-5fe0-4b8a-814b-793eea4065f8.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 60 Yellow Galactic Sun</h1><p>I Harmonize in Order to Enlighten</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11364fbf970b13530c133c8e98dd8489e8b06e43.png"></article>]]></description>
             <link>http://canik.nl/kin-60-yellow-galactic-sun/index.html</link>
             <guid isPermaLink="false">d2252c47-709b-4259-ba9c-1231d28d6899</guid>
             <pubDate>Tue, 16 Feb 2016 20:43:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-53-red-magnetic-skywalker/index.html</link>
             <guid isPermaLink="false">00ade4d0-e5c0-4beb-99a6-553f2dcadd0b</guid>
             <pubDate>Tue, 09 Feb 2016 22:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 52 Yellow Cosmic Human]]></title>
-            <description><![CDATA[<article><h1>KIN 52 Yellow Cosmic Human</h1><p>I Endure in Order to Influence</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/997f830809d027260f30934dbabefc9eba7dde23.png"></article>]]></description>
-            <link>http://canik.nl/kin-52-yellow-cosmic-human/index.html</link>
-            <guid isPermaLink="false">d7405290-3f60-4e52-b257-2dd7b852d233</guid>
-            <pubDate>Mon, 08 Feb 2016 21:40:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
