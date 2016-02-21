@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 21:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 10:00:03 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 64 Yellow Crystal Seed]]></title>
+            <description><![CDATA[<article><h1>KIN 64 Yellow Crystal Seed</h1><p>I Dedicate in Order to Target</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb01b75-3446-4ba4-840e-0acadc8062e2.png"></article>]]></description>
+            <link>http://canik.nl/kin-64-yellow-crystal-seed/index.html</link>
+            <guid isPermaLink="false">6ca8dfad-9591-4a6e-99f7-65bc653758b1</guid>
+            <pubDate>Sun, 21 Feb 2016 09:57:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 63 Blue Spectral Night ]]></title>
-            <description><![CDATA[<article><h1>KIN 63 Blue Spectral Night </h1><p>I Dissolve in Order to Dream </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53732e55-7ef1-4493-b29a-698a092b2384.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 63 Blue Spectral Night </h1><p>I Dissolve in Order to Dream </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8aeb3eab09e70dc90538dc93451a191a15ccf35.png"></article>]]></description>
             <link>http://canik.nl/kin-63-blue-spectral-night/index.html</link>
             <guid isPermaLink="false">3f38dd13-a15b-4b20-8b41-52aaf7dd85f1</guid>
             <pubDate>Fri, 19 Feb 2016 21:41:36 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-56-yellow-self-existing-warrior/index.html</link>
             <guid isPermaLink="false">f41b2c11-b7a9-4783-b25b-b17316542c1a</guid>
             <pubDate>Fri, 12 Feb 2016 21:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 55 Blue Electric Eagle]]></title>
-            <description><![CDATA[<article><h1>KIN 55 Blue Electric Eagle</h1><p>I Activate in Order to Create</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b43f899a13bd15a2ed71165d0d3054d37e820965.png"></article>]]></description>
-            <link>http://canik.nl/kin-55-blue-electric-eagle/index.html</link>
-            <guid isPermaLink="false">e80e385f-3e20-49fc-b859-9085007ce32d</guid>
-            <pubDate>Thu, 11 Feb 2016 21:28:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
