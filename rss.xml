@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 10:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 19:41:18 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 65 Red Cosmic Serpent]]></title>
+            <description><![CDATA[<article><h1>KIN 65 Red Cosmic Serpent</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7669b656-e1bf-4656-8da1-69247d73cd57.png"></article>]]></description>
+            <link>http://canik.nl/kin-65-red-cosmic-serpent/index.html</link>
+            <guid isPermaLink="false">212eab2b-4c05-49b0-84e5-0131f83ecc74</guid>
+            <pubDate>Sun, 21 Feb 2016 19:40:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 64 Yellow Crystal Seed]]></title>
-            <description><![CDATA[<article><h1>KIN 64 Yellow Crystal Seed</h1><p>I Dedicate in Order to Target</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb01b75-3446-4ba4-840e-0acadc8062e2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 64 Yellow Crystal Seed</h1><p>I Dedicate in Order to Target</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/366e5fcaac63add843209f6757fc082e1b7a029e.png"></article>]]></description>
             <link>http://canik.nl/kin-64-yellow-crystal-seed/index.html</link>
             <guid isPermaLink="false">6ca8dfad-9591-4a6e-99f7-65bc653758b1</guid>
             <pubDate>Sun, 21 Feb 2016 09:57:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-57-red-overtone-earth/index.html</link>
             <guid isPermaLink="false">8d3cd300-5adc-479b-b396-c6121240cd60</guid>
             <pubDate>Sat, 13 Feb 2016 22:58:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 56 Yellow Self-Existing Warrior]]></title>
-            <description><![CDATA[<article><h1>KIN 56 Yellow Self-Existing Warrior</h1><p>I Define in Order to Question</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a420a70400754a40294a7e5507a12c637feba759.png"></article>]]></description>
-            <link>http://canik.nl/kin-56-yellow-self-existing-warrior/index.html</link>
-            <guid isPermaLink="false">f41b2c11-b7a9-4783-b25b-b17316542c1a</guid>
-            <pubDate>Fri, 12 Feb 2016 21:20:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
