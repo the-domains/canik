@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 19:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 22:31:51 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 66 White Magnetic World-Bridger]]></title>
+            <description><![CDATA[<article><h1>KIN 66 White Magnetic World-Bridger</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac33b67-7bc2-41c7-9191-f401ddb382fc.png"></article>]]></description>
+            <link>http://canik.nl/kin-66-white-magnetic-world-bridger/index.html</link>
+            <guid isPermaLink="false">e4bed1be-5346-48dc-87d2-f313a0df5439</guid>
+            <pubDate>Mon, 22 Feb 2016 22:30:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 65 Red Cosmic Serpent]]></title>
-            <description><![CDATA[<article><h1>KIN 65 Red Cosmic Serpent</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7669b656-e1bf-4656-8da1-69247d73cd57.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 65 Red Cosmic Serpent</h1><p>I Endure in Order to Survive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71c55161c8b6308b09d2ba89c9a7f016900623c1.png"></article>]]></description>
             <link>http://canik.nl/kin-65-red-cosmic-serpent/index.html</link>
             <guid isPermaLink="false">212eab2b-4c05-49b0-84e5-0131f83ecc74</guid>
             <pubDate>Sun, 21 Feb 2016 19:40:51 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-58-white-rhythmic-mirror/index.html</link>
             <guid isPermaLink="false">808ee772-1e4d-4e7d-8c70-2f5103143a3d</guid>
             <pubDate>Sun, 14 Feb 2016 21:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 57 Red Overtone Earth]]></title>
-            <description><![CDATA[<article><h1>KIN 57 Red Overtone Earth</h1><p>I Empower in Order to Evolve</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfe9d1d01c94964272ab661e68f1402af8e55f0c.png"></article>]]></description>
-            <link>http://canik.nl/kin-57-red-overtone-earth/index.html</link>
-            <guid isPermaLink="false">8d3cd300-5adc-479b-b396-c6121240cd60</guid>
-            <pubDate>Sat, 13 Feb 2016 22:58:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
