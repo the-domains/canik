@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 22:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 19:14:51 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 67 Blue Lunar Hand]]></title>
+            <description><![CDATA[<article><h1>KIN 67 Blue Lunar Hand</h1><p>I Polarize in order to Know</p></article>]]></description>
+            <link>http://canik.nl/kin-67-blue-lunar-hand/index.html</link>
+            <guid isPermaLink="false">5663a430-ebdb-41e5-8aff-ea0d6bd8d437</guid>
+            <pubDate>Tue, 23 Feb 2016 19:14:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 66 White Magnetic World-Bridger]]></title>
-            <description><![CDATA[<article><h1>KIN 66 White Magnetic World-Bridger</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac33b67-7bc2-41c7-9191-f401ddb382fc.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 66 White Magnetic World-Bridger</h1><p>I Unify in Order to Equalize</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad3e40b88d961035ecb1b68815ef59480a560df0.png"></article>]]></description>
             <link>http://canik.nl/kin-66-white-magnetic-world-bridger/index.html</link>
             <guid isPermaLink="false">e4bed1be-5346-48dc-87d2-f313a0df5439</guid>
             <pubDate>Mon, 22 Feb 2016 22:30:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-59-blue-resonant-storm/index.html</link>
             <guid isPermaLink="false">2fd96246-bfac-43a1-9fe2-3d5d249306ba</guid>
             <pubDate>Mon, 15 Feb 2016 22:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 58 White Rhythmic Mirror]]></title>
-            <description><![CDATA[<article><h1>KIN 58 White Rhythmic Mirror</h1><p>I Organize in Order to Reflect</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3072c95fe8c3040b5ff9131257cd5ea0274f9143.png"></article>]]></description>
-            <link>http://canik.nl/kin-58-white-rhythmic-mirror/index.html</link>
-            <guid isPermaLink="false">808ee772-1e4d-4e7d-8c70-2f5103143a3d</guid>
-            <pubDate>Sun, 14 Feb 2016 21:07:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
