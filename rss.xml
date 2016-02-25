@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 19:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 07:57:59 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 68 Yellow Electric Star]]></title>
+            <description><![CDATA[<article><h1>KIN 68 Yellow Electric Star</h1><p>I Activate in Order to Beautify</p></article>]]></description>
+            <link>http://canik.nl/kin-68-yellow-electric-star/index.html</link>
+            <guid isPermaLink="false">58e88c43-13ae-4a1d-835b-36691bf3cad3</guid>
+            <pubDate>Thu, 25 Feb 2016 07:57:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 67 Blue Lunar Hand]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-60-yellow-galactic-sun/index.html</link>
             <guid isPermaLink="false">d2252c47-709b-4259-ba9c-1231d28d6899</guid>
             <pubDate>Tue, 16 Feb 2016 20:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 59 Blue Resonant Storm]]></title>
-            <description><![CDATA[<article><h1>KIN 59 Blue Resonant Storm</h1><p>I Channel in Order to Catalyze</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec2147bded44a23ef6bd78101162387bbbe1e611.png"></article>]]></description>
-            <link>http://canik.nl/kin-59-blue-resonant-storm/index.html</link>
-            <guid isPermaLink="false">2fd96246-bfac-43a1-9fe2-3d5d249306ba</guid>
-            <pubDate>Mon, 15 Feb 2016 22:30:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
