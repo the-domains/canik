@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 09:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 22:04:04 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 70 White Overtone Dog ]]></title>
+            <description><![CDATA[<h1>KIN 70 White Overtone Dog </h1>]]></description>
+            <link>http://canik.nl/kin-70-white-overtone-dog/index.html</link>
+            <guid isPermaLink="false">2ab1c5d2-4400-40cd-9c90-5e1dd60c6051</guid>
+            <pubDate>Fri, 26 Feb 2016 22:03:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 69 Red Self-Existing Moon]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[KIN 68 Yellow Electric Star]]></title>
-            <description><![CDATA[<article><h1>KIN 68 Yellow Electric Star</h1><p>I Activate in Order to Beautify</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab1f942-6627-458c-87e6-e61cb3d961fe.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 68 Yellow Electric Star</h1><p>I Activate in Order to Beautify</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d5e50a4eeefa61f883e2ac42ee87cb46369236e.png"></article>]]></description>
             <link>http://canik.nl/kin-68-yellow-electric-star/index.html</link>
             <guid isPermaLink="false">58e88c43-13ae-4a1d-835b-36691bf3cad3</guid>
             <pubDate>Fri, 26 Feb 2016 09:04:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-62-white-planetary-wind/index.html</link>
             <guid isPermaLink="false">6c821c06-ab92-412b-9fa0-8bb3f50b721d</guid>
             <pubDate>Thu, 18 Feb 2016 21:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 61 Red Solar Dragon]]></title>
-            <description><![CDATA[<article><h1>KIN 61 Red Solar Dragon</h1><p>I Pulse in Order to Nurture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b562263d6df8ca8abf9082a09098a4cc173ad5e5.png"></article>]]></description>
-            <link>http://canik.nl/kin-61-red-solar-dragon/index.html</link>
-            <guid isPermaLink="false">3271dc01-9dc8-4511-9eb9-3c59f508adf2</guid>
-            <pubDate>Wed, 17 Feb 2016 21:53:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
