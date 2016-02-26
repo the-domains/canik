@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T07:57:40.925Z'
-dateModified: '2016-02-25T07:57:40.473Z'
+datePublished: '2016-02-26T09:04:52.462Z'
+dateModified: '2016-02-26T09:04:17.933Z'
 title: KIN 68 Yellow Electric Star
 author: []
+sourcePath: _posts/2016-02-25-kin-68-yellow-electric-star.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-kin-68-yellow-electric-star.md
-published: true
 url: kin-68-yellow-electric-star/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab1f942-6627-458c-87e6-e61cb3d961fe.png)
+
 # KIN 68 Yellow Electric Star
 
 I Activate in Order to Beautify
