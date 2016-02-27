@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 22:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 19:38:51 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 71 Blue Rhythmic Monkey]]></title>
+            <description><![CDATA[<article><h1>KIN 71 Blue Rhythmic Monkey</h1><p>I Organize in Order to Play</p></article>]]></description>
+            <link>http://canik.nl/kin-71-blue-rhythmic-monkey/index.html</link>
+            <guid isPermaLink="false">cbedb5ab-6e4f-4bed-a355-82800cf70f30</guid>
+            <pubDate>Sat, 27 Feb 2016 19:38:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 70 White Overtone Dog ]]></title>
-            <description><![CDATA[<h1>KIN 70 White Overtone Dog </h1>]]></description>
+            <description><![CDATA[<article><h1>KIN 70 White Overtone Dog </h1><p> I Empower in Order to Love </p></article>]]></description>
             <link>http://canik.nl/kin-70-white-overtone-dog/index.html</link>
             <guid isPermaLink="false">2ab1c5d2-4400-40cd-9c90-5e1dd60c6051</guid>
             <pubDate>Fri, 26 Feb 2016 22:03:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-63-blue-spectral-night/index.html</link>
             <guid isPermaLink="false">3f38dd13-a15b-4b20-8b41-52aaf7dd85f1</guid>
             <pubDate>Fri, 19 Feb 2016 21:41:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 62 White Planetary Wind]]></title>
-            <description><![CDATA[<article><h1>KIN 62 White Planetary Wind</h1><p>I Perfect in Order to Communicate</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52d72a6e222d3c28480f4d79a206b1a0806c76e5.png"></article>]]></description>
-            <link>http://canik.nl/kin-62-white-planetary-wind/index.html</link>
-            <guid isPermaLink="false">6c821c06-ab92-412b-9fa0-8bb3f50b721d</guid>
-            <pubDate>Thu, 18 Feb 2016 21:24:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
