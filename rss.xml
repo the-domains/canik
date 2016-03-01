@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 20:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 21:07:38 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 73 Red Galactic Skywalker]]></title>
+            <description><![CDATA[<h1>KIN 73 Red Galactic Skywalker</h1>]]></description>
+            <link>http://canik.nl/kin-73-red-galactic-skywalker/index.html</link>
+            <guid isPermaLink="false">0cb719b5-ed96-465e-8ee6-c9919f6dbb0b</guid>
+            <pubDate>Tue, 01 Mar 2016 21:02:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 72 Yellow Resonant Human ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-65-red-cosmic-serpent/index.html</link>
             <guid isPermaLink="false">212eab2b-4c05-49b0-84e5-0131f83ecc74</guid>
             <pubDate>Sun, 21 Feb 2016 19:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 64 Yellow Crystal Seed]]></title>
-            <description><![CDATA[<article><h1>KIN 64 Yellow Crystal Seed</h1><p>I Dedicate in Order to Target</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/366e5fcaac63add843209f6757fc082e1b7a029e.png"></article>]]></description>
-            <link>http://canik.nl/kin-64-yellow-crystal-seed/index.html</link>
-            <guid isPermaLink="false">6ca8dfad-9591-4a6e-99f7-65bc653758b1</guid>
-            <pubDate>Sun, 21 Feb 2016 09:57:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
