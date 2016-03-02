@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 21:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 20:51:56 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 74 White Solar Wizard]]></title>
+            <description><![CDATA[<article><h1>KIN 74 White Solar Wizard</h1><p>I Pulse in Order to Enchant</p></article>]]></description>
+            <link>http://canik.nl/kin-74-white-solar-wizard/index.html</link>
+            <guid isPermaLink="false">9b92c050-420a-4545-9f68-0f4b00d09887</guid>
+            <pubDate>Wed, 02 Mar 2016 20:51:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 73 Red Galactic Skywalker]]></title>
-            <description><![CDATA[<h1>KIN 73 Red Galactic Skywalker</h1>]]></description>
+            <description><![CDATA[<article><h1>KIN 73 Red Galactic Skywalker</h1><p>I Harmonize in Order to Explore</p></article>]]></description>
             <link>http://canik.nl/kin-73-red-galactic-skywalker/index.html</link>
             <guid isPermaLink="false">0cb719b5-ed96-465e-8ee6-c9919f6dbb0b</guid>
             <pubDate>Tue, 01 Mar 2016 21:02:50 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-66-white-magnetic-world-bridger/index.html</link>
             <guid isPermaLink="false">e4bed1be-5346-48dc-87d2-f313a0df5439</guid>
             <pubDate>Mon, 22 Feb 2016 22:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 65 Red Cosmic Serpent]]></title>
-            <description><![CDATA[<article><h1>KIN 65 Red Cosmic Serpent</h1><p>I Endure in Order to Survive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71c55161c8b6308b09d2ba89c9a7f016900623c1.png"></article>]]></description>
-            <link>http://canik.nl/kin-65-red-cosmic-serpent/index.html</link>
-            <guid isPermaLink="false">212eab2b-4c05-49b0-84e5-0131f83ecc74</guid>
-            <pubDate>Sun, 21 Feb 2016 19:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
