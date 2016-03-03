@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 20:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 21:11:31 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 75 Blue Planetary Eagle]]></title>
+            <description><![CDATA[<article><h1>KIN 75 Blue Planetary Eagle</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b47bfe5-3822-4757-bcc6-fe6c2e7adee4.png"></article>]]></description>
+            <link>http://canik.nl/kin-75-blue-planetary-eagle/index.html</link>
+            <guid isPermaLink="false">3ce87835-093f-458d-883c-10f7b713a242</guid>
+            <pubDate>Thu, 03 Mar 2016 21:09:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 74 White Solar Wizard]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-67-blue-lunar-hand/index.html</link>
             <guid isPermaLink="false">5663a430-ebdb-41e5-8aff-ea0d6bd8d437</guid>
             <pubDate>Tue, 23 Feb 2016 19:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 66 White Magnetic World-Bridger]]></title>
-            <description><![CDATA[<article><h1>KIN 66 White Magnetic World-Bridger</h1><p>I Unify in Order to Equalize</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad3e40b88d961035ecb1b68815ef59480a560df0.png"></article>]]></description>
-            <link>http://canik.nl/kin-66-white-magnetic-world-bridger/index.html</link>
-            <guid isPermaLink="false">e4bed1be-5346-48dc-87d2-f313a0df5439</guid>
-            <pubDate>Mon, 22 Feb 2016 22:30:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
