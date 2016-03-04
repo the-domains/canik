@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 21:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 21:15:52 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 76 Yellow Spectral Warrior]]></title>
+            <description><![CDATA[<article><h1>KIN 76 Yellow Spectral Warrior</h1><p>I Dissolve in Order to Question</p></article>]]></description>
+            <link>http://canik.nl/kin-76-yellow-spectral-warrior/index.html</link>
+            <guid isPermaLink="false">34834c54-6a8b-4b5f-a06f-1e44317b2332</guid>
+            <pubDate>Fri, 04 Mar 2016 21:13:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 75 Blue Planetary Eagle]]></title>
-            <description><![CDATA[<article><h1>KIN 75 Blue Planetary Eagle</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b47bfe5-3822-4757-bcc6-fe6c2e7adee4.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 75 Blue Planetary Eagle</h1><p>I Perfect in Order to Create</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32831fc9849d7acfc6b40dfb695a9e89d50f79f2.png"></article>]]></description>
             <link>http://canik.nl/kin-75-blue-planetary-eagle/index.html</link>
             <guid isPermaLink="false">3ce87835-093f-458d-883c-10f7b713a242</guid>
             <pubDate>Thu, 03 Mar 2016 21:09:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-68-yellow-electric-star/index.html</link>
             <guid isPermaLink="false">58e88c43-13ae-4a1d-835b-36691bf3cad3</guid>
             <pubDate>Fri, 26 Feb 2016 09:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 67 Blue Lunar Hand]]></title>
-            <description><![CDATA[<article><h1>KIN 67 Blue Lunar Hand</h1><p>I Polarize in order to Know</p></article>]]></description>
-            <link>http://canik.nl/kin-67-blue-lunar-hand/index.html</link>
-            <guid isPermaLink="false">5663a430-ebdb-41e5-8aff-ea0d6bd8d437</guid>
-            <pubDate>Tue, 23 Feb 2016 19:14:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
