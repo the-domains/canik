@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 12:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 21:05:20 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 78 White Cosmic Mirror]]></title>
+            <description><![CDATA[<article><h1>KIN 78 White Cosmic Mirror</h1><p>I Endure in order to Reflect</p></article>]]></description>
+            <link>http://canik.nl/kin-78-white-cosmic-mirror/index.html</link>
+            <guid isPermaLink="false">fcf97cc6-c319-4df1-80cf-dc3f1aec4fa7</guid>
+            <pubDate>Sun, 06 Mar 2016 21:04:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 77 Red Crystal Earth]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-70-white-overtone-dog/index.html</link>
             <guid isPermaLink="false">2ab1c5d2-4400-40cd-9c90-5e1dd60c6051</guid>
             <pubDate>Fri, 26 Feb 2016 22:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 69 Red Self-Existing Moon]]></title>
-            <description><![CDATA[<article><h1>KIN 69 Red Self-Existing Moon</h1><p>I Define in Order to Purify</p></article>]]></description>
-            <link>http://canik.nl/kin-69-red-self-existing-moon/index.html</link>
-            <guid isPermaLink="false">267347b3-2298-44ee-aceb-0743bb994a7d</guid>
-            <pubDate>Fri, 26 Feb 2016 08:59:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
