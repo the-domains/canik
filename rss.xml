@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 12:09:10 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 77 Red Crystal Earth]]></title>
+            <description><![CDATA[<article><h1>KIN 77 Red Crystal Earth</h1><p>I Dedicate in Order to Evolve</p></article>]]></description>
+            <link>http://canik.nl/kin-77-red-crystal-earth/index.html</link>
+            <guid isPermaLink="false">ab734395-f936-41af-b3fc-c505a7546d70</guid>
+            <pubDate>Sun, 06 Mar 2016 12:08:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 76 Yellow Spectral Warrior]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-69-red-self-existing-moon/index.html</link>
             <guid isPermaLink="false">267347b3-2298-44ee-aceb-0743bb994a7d</guid>
             <pubDate>Fri, 26 Feb 2016 08:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 68 Yellow Electric Star]]></title>
-            <description><![CDATA[<article><h1>KIN 68 Yellow Electric Star</h1><p>I Activate in Order to Beautify</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d5e50a4eeefa61f883e2ac42ee87cb46369236e.png"></article>]]></description>
-            <link>http://canik.nl/kin-68-yellow-electric-star/index.html</link>
-            <guid isPermaLink="false">58e88c43-13ae-4a1d-835b-36691bf3cad3</guid>
-            <pubDate>Fri, 26 Feb 2016 09:04:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
