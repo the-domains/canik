@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 21:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 19:55:27 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>KIN 79 Blue Magnetic Storm </p>]]></description>
+            <link>http://canik.nl/9fbc39f1-2910-4c33-a15b-0af43807d630/index.html</link>
+            <guid isPermaLink="false">9fbc39f1-2910-4c33-a15b-0af43807d630</guid>
+            <pubDate>Mon, 07 Mar 2016 19:55:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 78 White Cosmic Mirror]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-71-blue-rhythmic-monkey/index.html</link>
             <guid isPermaLink="false">cbedb5ab-6e4f-4bed-a355-82800cf70f30</guid>
             <pubDate>Sat, 27 Feb 2016 19:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 70 White Overtone Dog ]]></title>
-            <description><![CDATA[<article><h1>KIN 70 White Overtone Dog </h1><p> I Empower in Order to Love </p></article>]]></description>
-            <link>http://canik.nl/kin-70-white-overtone-dog/index.html</link>
-            <guid isPermaLink="false">2ab1c5d2-4400-40cd-9c90-5e1dd60c6051</guid>
-            <pubDate>Fri, 26 Feb 2016 22:03:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
