@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 09:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 20:41:12 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 81 Red Electric Dragon ]]></title>
+            <description><![CDATA[<article><h1>KIN 81 Red Electric Dragon </h1><p> I Activate in Order to Nurture</p></article>]]></description>
+            <link>http://canik.nl/kin-81-red-electric-dragon/index.html</link>
+            <guid isPermaLink="false">3ab8d61d-f885-4f40-ba5e-0cf80fee73ee</guid>
+            <pubDate>Wed, 09 Mar 2016 20:38:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 80 Yellow Lunar Sun]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-73-red-galactic-skywalker/index.html</link>
             <guid isPermaLink="false">0cb719b5-ed96-465e-8ee6-c9919f6dbb0b</guid>
             <pubDate>Tue, 01 Mar 2016 21:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 72 Yellow Resonant Human ]]></title>
-            <description><![CDATA[<article><h1>KIN 72 Yellow Resonant Human </h1><p> I Channel in Order to Influence </p></article>]]></description>
-            <link>http://canik.nl/kin-72-yellow-resonant-human/index.html</link>
-            <guid isPermaLink="false">b0b55c2c-2464-4faa-b1b8-dd570754aa6a</guid>
-            <pubDate>Mon, 29 Feb 2016 20:28:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
