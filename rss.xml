@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 09:07:33 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 80 Yellow Lunar Sun]]></title>
+            <description><![CDATA[<article><h1>KIN 80 Yellow Lunar Sun</h1><p>I Polarize in order to Enlighten</p></article>]]></description>
+            <link>http://canik.nl/kin-80-yellow-lunar-sun/index.html</link>
+            <guid isPermaLink="false">8a3cac31-bece-45a7-bfe7-6628411fe00b</guid>
+            <pubDate>Wed, 09 Mar 2016 09:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-72-yellow-resonant-human/index.html</link>
             <guid isPermaLink="false">b0b55c2c-2464-4faa-b1b8-dd570754aa6a</guid>
             <pubDate>Mon, 29 Feb 2016 20:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 71 Blue Rhythmic Monkey]]></title>
-            <description><![CDATA[<article><h1>KIN 71 Blue Rhythmic Monkey</h1><p>I Organize in Order to Play</p></article>]]></description>
-            <link>http://canik.nl/kin-71-blue-rhythmic-monkey/index.html</link>
-            <guid isPermaLink="false">cbedb5ab-6e4f-4bed-a355-82800cf70f30</guid>
-            <pubDate>Sat, 27 Feb 2016 19:38:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
