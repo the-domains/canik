@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 20:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 21:21:56 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 82 White Self-Existing Wind]]></title>
+            <description><![CDATA[<article><h1>KIN 82 White Self-Existing Wind</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece4801c-e3b2-4e5e-95a4-6a8766383d61.png"></article>]]></description>
+            <link>http://canik.nl/kin-82-white-self-existing-wind/index.html</link>
+            <guid isPermaLink="false">723fad3e-34f8-4852-9c80-9c560045bff4</guid>
+            <pubDate>Thu, 10 Mar 2016 21:20:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 81 Red Electric Dragon ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-74-white-solar-wizard/index.html</link>
             <guid isPermaLink="false">9b92c050-420a-4545-9f68-0f4b00d09887</guid>
             <pubDate>Wed, 02 Mar 2016 20:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 73 Red Galactic Skywalker]]></title>
-            <description><![CDATA[<article><h1>KIN 73 Red Galactic Skywalker</h1><p>I Harmonize in Order to Explore</p></article>]]></description>
-            <link>http://canik.nl/kin-73-red-galactic-skywalker/index.html</link>
-            <guid isPermaLink="false">0cb719b5-ed96-465e-8ee6-c9919f6dbb0b</guid>
-            <pubDate>Tue, 01 Mar 2016 21:02:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
