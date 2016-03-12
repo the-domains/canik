@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 21:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 08:24:22 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 83 Blue Overtone Night]]></title>
+            <description><![CDATA[<article><h1>KIN 83 Blue Overtone Night</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-83-blue-overtone-night/index.html</link>
+            <guid isPermaLink="false">898b9473-0753-43b3-8bc1-b67f2a7d2895</guid>
+            <pubDate>Sat, 12 Mar 2016 08:22:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 82 White Self-Existing Wind]]></title>
-            <description><![CDATA[<article><h1>KIN 82 White Self-Existing Wind</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece4801c-e3b2-4e5e-95a4-6a8766383d61.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 82 White Self-Existing Wind</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df7a78b57429d208192630215a8c08e1408f55b.png"></article>]]></description>
             <link>http://canik.nl/kin-82-white-self-existing-wind/index.html</link>
             <guid isPermaLink="false">723fad3e-34f8-4852-9c80-9c560045bff4</guid>
             <pubDate>Thu, 10 Mar 2016 21:20:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-75-blue-planetary-eagle/index.html</link>
             <guid isPermaLink="false">3ce87835-093f-458d-883c-10f7b713a242</guid>
             <pubDate>Thu, 03 Mar 2016 21:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 74 White Solar Wizard]]></title>
-            <description><![CDATA[<article><h1>KIN 74 White Solar Wizard</h1><p>I Pulse in Order to Enchant</p></article>]]></description>
-            <link>http://canik.nl/kin-74-white-solar-wizard/index.html</link>
-            <guid isPermaLink="false">9b92c050-420a-4545-9f68-0f4b00d09887</guid>
-            <pubDate>Wed, 02 Mar 2016 20:51:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
