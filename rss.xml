@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 08:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 21:21:33 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 85 Red Resonant Serpent]]></title>
+            <description><![CDATA[<article><h1>KIN 85 Red Resonant Serpent</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-85-red-resonant-serpent/index.html</link>
+            <guid isPermaLink="false">2b5ea423-fe97-4512-bb87-22a209681b73</guid>
+            <pubDate>Sun, 13 Mar 2016 21:18:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 83 Blue Overtone Night]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-76-yellow-spectral-warrior/index.html</link>
             <guid isPermaLink="false">34834c54-6a8b-4b5f-a06f-1e44317b2332</guid>
             <pubDate>Fri, 04 Mar 2016 21:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 75 Blue Planetary Eagle]]></title>
-            <description><![CDATA[<article><h1>KIN 75 Blue Planetary Eagle</h1><p>I Perfect in Order to Create</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32831fc9849d7acfc6b40dfb695a9e89d50f79f2.png"></article>]]></description>
-            <link>http://canik.nl/kin-75-blue-planetary-eagle/index.html</link>
-            <guid isPermaLink="false">3ce87835-093f-458d-883c-10f7b713a242</guid>
-            <pubDate>Thu, 03 Mar 2016 21:09:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
