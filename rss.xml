@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 21:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 21:03:25 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 86 White Galactic World-Bridger]]></title>
+            <description><![CDATA[<article><h1>KIN 86 White Galactic World-Bridger</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-86-white-galactic-world-bridger/index.html</link>
+            <guid isPermaLink="false">f0710eed-fa03-415b-8b0d-faadae83b6d3</guid>
+            <pubDate>Mon, 14 Mar 2016 21:02:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 85 Red Resonant Serpent]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-77-red-crystal-earth/index.html</link>
             <guid isPermaLink="false">ab734395-f936-41af-b3fc-c505a7546d70</guid>
             <pubDate>Sun, 06 Mar 2016 12:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 76 Yellow Spectral Warrior]]></title>
-            <description><![CDATA[<article><h1>KIN 76 Yellow Spectral Warrior</h1><p>I Dissolve in Order to Question</p></article>]]></description>
-            <link>http://canik.nl/kin-76-yellow-spectral-warrior/index.html</link>
-            <guid isPermaLink="false">34834c54-6a8b-4b5f-a06f-1e44317b2332</guid>
-            <pubDate>Fri, 04 Mar 2016 21:13:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
