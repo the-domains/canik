@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 21:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 22:30:58 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 87 Blue Solar Hand]]></title>
+            <description><![CDATA[<article><h1>KIN 87 Blue Solar Hand</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-87-blue-solar-hand/index.html</link>
+            <guid isPermaLink="false">4b1512a5-8760-42ae-95a9-78ba7272f0fc</guid>
+            <pubDate>Tue, 15 Mar 2016 22:28:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 86 White Galactic World-Bridger]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-78-white-cosmic-mirror/index.html</link>
             <guid isPermaLink="false">fcf97cc6-c319-4df1-80cf-dc3f1aec4fa7</guid>
             <pubDate>Sun, 06 Mar 2016 21:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 77 Red Crystal Earth]]></title>
-            <description><![CDATA[<article><h1>KIN 77 Red Crystal Earth</h1><p>I Dedicate in Order to Evolve</p></article>]]></description>
-            <link>http://canik.nl/kin-77-red-crystal-earth/index.html</link>
-            <guid isPermaLink="false">ab734395-f936-41af-b3fc-c505a7546d70</guid>
-            <pubDate>Sun, 06 Mar 2016 12:08:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
