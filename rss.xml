@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 22:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 21:22:16 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 88 Yellow Planetary Star ]]></title>
+            <description><![CDATA[<article><h1>KIN 88 Yellow Planetary Star </h1><p> I Perfect in Order to Beautify </p></article>]]></description>
+            <link>http://canik.nl/kin-88-yellow-planetary-star/index.html</link>
+            <guid isPermaLink="false">09cbbcf3-692f-41d5-bf43-b05c24ec9a1e</guid>
+            <pubDate>Wed, 16 Mar 2016 21:21:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 87 Blue Solar Hand]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/9fbc39f1-2910-4c33-a15b-0af43807d630/index.html</link>
             <guid isPermaLink="false">9fbc39f1-2910-4c33-a15b-0af43807d630</guid>
             <pubDate>Mon, 07 Mar 2016 19:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 78 White Cosmic Mirror]]></title>
-            <description><![CDATA[<article><h1>KIN 78 White Cosmic Mirror</h1><p>I Endure in order to Reflect</p></article>]]></description>
-            <link>http://canik.nl/kin-78-white-cosmic-mirror/index.html</link>
-            <guid isPermaLink="false">fcf97cc6-c319-4df1-80cf-dc3f1aec4fa7</guid>
-            <pubDate>Sun, 06 Mar 2016 21:04:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
