@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 21:44:21 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 89 Red Spectral Moon]]></title>
+            <description><![CDATA[<article><h1>KIN 89 Red Spectral Moon</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-89-red-spectral-moon/index.html</link>
+            <guid isPermaLink="false">85ccd7e4-bed0-48ce-ba98-ff248eaddd16</guid>
+            <pubDate>Thu, 17 Mar 2016 21:43:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 88 Yellow Planetary Star ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-80-yellow-lunar-sun/index.html</link>
             <guid isPermaLink="false">8a3cac31-bece-45a7-bfe7-6628411fe00b</guid>
             <pubDate>Wed, 09 Mar 2016 09:05:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>KIN 79 Blue Magnetic Storm </p>]]></description>
-            <link>http://canik.nl/9fbc39f1-2910-4c33-a15b-0af43807d630/index.html</link>
-            <guid isPermaLink="false">9fbc39f1-2910-4c33-a15b-0af43807d630</guid>
-            <pubDate>Mon, 07 Mar 2016 19:58:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
