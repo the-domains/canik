@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 21:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 20:50:37 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 90 White Crystal Dog]]></title>
+            <description><![CDATA[<article><h1>KIN 90 White Crystal Dog</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-90-white-crystal-dog/index.html</link>
+            <guid isPermaLink="false">9649cbd8-0046-490e-8946-158332568162</guid>
+            <pubDate>Fri, 18 Mar 2016 20:48:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 89 Red Spectral Moon]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-81-red-electric-dragon/index.html</link>
             <guid isPermaLink="false">3ab8d61d-f885-4f40-ba5e-0cf80fee73ee</guid>
             <pubDate>Wed, 09 Mar 2016 20:38:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 80 Yellow Lunar Sun]]></title>
-            <description><![CDATA[<article><h1>KIN 80 Yellow Lunar Sun</h1><p>I Polarize in order to Enlighten</p></article>]]></description>
-            <link>http://canik.nl/kin-80-yellow-lunar-sun/index.html</link>
-            <guid isPermaLink="false">8a3cac31-bece-45a7-bfe7-6628411fe00b</guid>
-            <pubDate>Wed, 09 Mar 2016 09:05:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
