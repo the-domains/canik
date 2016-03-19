@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 20:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 22:02:55 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 91 Blue Cosmic Monkey]]></title>
+            <description><![CDATA[<article><h1>KIN 91 Blue Cosmic Monkey</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-91-blue-cosmic-monkey/index.html</link>
+            <guid isPermaLink="false">ac4acb09-4d0c-4367-90ea-98bd92c7dbf9</guid>
+            <pubDate>Sat, 19 Mar 2016 22:00:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 90 White Crystal Dog]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-82-white-self-existing-wind/index.html</link>
             <guid isPermaLink="false">723fad3e-34f8-4852-9c80-9c560045bff4</guid>
             <pubDate>Thu, 10 Mar 2016 21:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 81 Red Electric Dragon ]]></title>
-            <description><![CDATA[<article><h1>KIN 81 Red Electric Dragon </h1><p> I Activate in Order to Nurture</p></article>]]></description>
-            <link>http://canik.nl/kin-81-red-electric-dragon/index.html</link>
-            <guid isPermaLink="false">3ab8d61d-f885-4f40-ba5e-0cf80fee73ee</guid>
-            <pubDate>Wed, 09 Mar 2016 20:38:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
