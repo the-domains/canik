@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 22:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 21:07:12 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 92 Yellow Magnetic Human]]></title>
+            <description><![CDATA[<h1>KIN 92 Yellow Magnetic Human</h1>]]></description>
+            <link>http://canik.nl/kin-92-yellow-magnetic-human/index.html</link>
+            <guid isPermaLink="false">953f9e63-42ce-4618-b45a-ee5a8a713d7b</guid>
+            <pubDate>Sun, 20 Mar 2016 21:06:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 91 Blue Cosmic Monkey]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-83-blue-overtone-night/index.html</link>
             <guid isPermaLink="false">898b9473-0753-43b3-8bc1-b67f2a7d2895</guid>
             <pubDate>Sat, 12 Mar 2016 08:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 82 White Self-Existing Wind]]></title>
-            <description><![CDATA[<article><h1>KIN 82 White Self-Existing Wind</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df7a78b57429d208192630215a8c08e1408f55b.png"></article>]]></description>
-            <link>http://canik.nl/kin-82-white-self-existing-wind/index.html</link>
-            <guid isPermaLink="false">723fad3e-34f8-4852-9c80-9c560045bff4</guid>
-            <pubDate>Thu, 10 Mar 2016 21:20:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
