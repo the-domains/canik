@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 21:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 21:00:44 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 94 White Electric Wizard]]></title>
+            <description><![CDATA[<article><h1>KIN 94 White Electric Wizard</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-94-white-electric-wizard/index.html</link>
+            <guid isPermaLink="false">5cdcac6b-7df5-417f-bf28-0f22d274d734</guid>
+            <pubDate>Tue, 22 Mar 2016 21:00:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 92 Yellow Magnetic Human]]></title>
-            <description><![CDATA[<h1>KIN 92 Yellow Magnetic Human</h1>]]></description>
+            <description><![CDATA[<article><h1>KIN 92 Yellow Magnetic Human</h1><p>I Unify in Order to Influence</p></article>]]></description>
             <link>http://canik.nl/kin-92-yellow-magnetic-human/index.html</link>
             <guid isPermaLink="false">953f9e63-42ce-4618-b45a-ee5a8a713d7b</guid>
             <pubDate>Sun, 20 Mar 2016 21:06:25 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-85-red-resonant-serpent/index.html</link>
             <guid isPermaLink="false">2b5ea423-fe97-4512-bb87-22a209681b73</guid>
             <pubDate>Sun, 13 Mar 2016 21:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 83 Blue Overtone Night]]></title>
-            <description><![CDATA[<article><h1>KIN 83 Blue Overtone Night</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-83-blue-overtone-night/index.html</link>
-            <guid isPermaLink="false">898b9473-0753-43b3-8bc1-b67f2a7d2895</guid>
-            <pubDate>Sat, 12 Mar 2016 08:22:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
