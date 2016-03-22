@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 21:01:03 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 93 Red Lunar Skywalker]]></title>
+            <description><![CDATA[<article><h1>KIN 93 Red Lunar Skywalker</h1><p>I Polarize in Order to Explore</p></article>]]></description>
+            <link>http://canik.nl/kin-93-red-lunar-skywalker/index.html</link>
+            <guid isPermaLink="false">ed5b0c9c-f403-4dd6-9532-9718486e2668</guid>
+            <pubDate>Tue, 22 Mar 2016 21:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 94 White Electric Wizard]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-86-white-galactic-world-bridger/index.html</link>
             <guid isPermaLink="false">f0710eed-fa03-415b-8b0d-faadae83b6d3</guid>
             <pubDate>Mon, 14 Mar 2016 21:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 85 Red Resonant Serpent]]></title>
-            <description><![CDATA[<article><h1>KIN 85 Red Resonant Serpent</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-85-red-resonant-serpent/index.html</link>
-            <guid isPermaLink="false">2b5ea423-fe97-4512-bb87-22a209681b73</guid>
-            <pubDate>Sun, 13 Mar 2016 21:18:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
