@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 21:30:32 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 95 Blue Self-Existing Eagle ]]></title>
+            <description><![CDATA[<article><h1>KIN 95 Blue Self-Existing Eagle </h1><p> I Define in Order to Create </p></article>]]></description>
+            <link>http://canik.nl/kin-95-blue-self-existing-eagle/index.html</link>
+            <guid isPermaLink="false">a48a330c-7d0a-4f45-95a6-a65466435752</guid>
+            <pubDate>Wed, 23 Mar 2016 21:30:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 94 White Electric Wizard ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-87-blue-solar-hand/index.html</link>
             <guid isPermaLink="false">4b1512a5-8760-42ae-95a9-78ba7272f0fc</guid>
             <pubDate>Tue, 15 Mar 2016 22:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 86 White Galactic World-Bridger]]></title>
-            <description><![CDATA[<article><h1>KIN 86 White Galactic World-Bridger</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-86-white-galactic-world-bridger/index.html</link>
-            <guid isPermaLink="false">f0710eed-fa03-415b-8b0d-faadae83b6d3</guid>
-            <pubDate>Mon, 14 Mar 2016 21:02:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
