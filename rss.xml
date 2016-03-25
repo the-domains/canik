@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 21:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 11:15:47 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 96 Yellow Overtone Warrior]]></title>
+            <description><![CDATA[<article><h1>KIN 96 Yellow Overtone Warrior</h1><p>I Empower in Order to Question</p></article>]]></description>
+            <link>http://canik.nl/kin-96-yellow-overtone-warrior/index.html</link>
+            <guid isPermaLink="false">2124841f-6dd3-4c31-9f7f-7bedaa87a462</guid>
+            <pubDate>Fri, 25 Mar 2016 11:13:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 95 Blue Self-Existing Eagle ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-88-yellow-planetary-star/index.html</link>
             <guid isPermaLink="false">09cbbcf3-692f-41d5-bf43-b05c24ec9a1e</guid>
             <pubDate>Wed, 16 Mar 2016 21:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 87 Blue Solar Hand]]></title>
-            <description><![CDATA[<article><h1>KIN 87 Blue Solar Hand</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-87-blue-solar-hand/index.html</link>
-            <guid isPermaLink="false">4b1512a5-8760-42ae-95a9-78ba7272f0fc</guid>
-            <pubDate>Tue, 15 Mar 2016 22:28:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
