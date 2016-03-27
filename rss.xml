@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 19:59:49 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 99 Blue Galactic Storm]]></title>
+            <description><![CDATA[<article><h1>KIN 99 Blue Galactic Storm</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-99-blue-galactic-storm/index.html</link>
+            <guid isPermaLink="false">1b50d6ab-a7f8-4eff-9ed6-f6537d9956a7</guid>
+            <pubDate>Sun, 27 Mar 2016 19:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 98 White Resonant Mirror]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-91-blue-cosmic-monkey/index.html</link>
             <guid isPermaLink="false">ac4acb09-4d0c-4367-90ea-98bd92c7dbf9</guid>
             <pubDate>Sat, 19 Mar 2016 22:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 90 White Crystal Dog]]></title>
-            <description><![CDATA[<article><h1>KIN 90 White Crystal Dog</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-90-white-crystal-dog/index.html</link>
-            <guid isPermaLink="false">9649cbd8-0046-490e-8946-158332568162</guid>
-            <pubDate>Fri, 18 Mar 2016 20:48:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
