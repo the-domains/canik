@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 21:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 20:39:56 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 103 Blue Crystal Night]]></title>
+            <description><![CDATA[<article><h1>KIN 103 Blue Crystal Night</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-103-blue-crystal-night/index.html</link>
+            <guid isPermaLink="false">72cfcafb-d937-4e7b-8480-8f8e180b85df</guid>
+            <pubDate>Thu, 31 Mar 2016 20:38:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 102 White Spectral Wind]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-95-blue-self-existing-eagle/index.html</link>
             <guid isPermaLink="false">a48a330c-7d0a-4f45-95a6-a65466435752</guid>
             <pubDate>Wed, 23 Mar 2016 21:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 94 White Electric Wizard ]]></title>
-            <description><![CDATA[<article><h1>KIN 94 White Electric Wizard </h1><p>I Activate in Order to Enchant </p></article>]]></description>
-            <link>http://canik.nl/kin-94-white-electric-wizard/index.html</link>
-            <guid isPermaLink="false">d63e4104-6b58-43e1-8cfa-929fc1241567</guid>
-            <pubDate>Tue, 22 Mar 2016 21:41:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
