@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 20:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 20:13:15 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 106 White Lunar World-Bridger]]></title>
+            <description><![CDATA[<article><h1>KIN 106 White Lunar World-Bridger</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-106-white-lunar-world-bridger/index.html</link>
+            <guid isPermaLink="false">7cca3c3b-f07e-4844-923a-2e0d558735bd</guid>
+            <pubDate>Sun, 03 Apr 2016 20:12:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 105 Red Magnetic Serpent]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-98-white-resonant-mirror/index.html</link>
             <guid isPermaLink="false">78561b25-29ff-4284-9692-6a589aeaf626</guid>
             <pubDate>Sat, 26 Mar 2016 21:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 97 Red Rhythmic Earth]]></title>
-            <description><![CDATA[<article><h1>KIN 97 Red Rhythmic Earth</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-97-red-rhythmic-earth/index.html</link>
-            <guid isPermaLink="false">bf1d38fd-042d-49e5-a862-870c15b6e569</guid>
-            <pubDate>Sat, 26 Mar 2016 09:07:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
