@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 19:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 20:45:24 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 109 Red Overtone Moon]]></title>
+            <description><![CDATA[<article><h1>KIN 109 Red Overtone Moon</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-109-red-overtone-moon/index.html</link>
+            <guid isPermaLink="false">647f22ae-be93-4eda-ac5d-9b2eb7ea7a0e</guid>
+            <pubDate>Wed, 06 Apr 2016 20:45:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 108 Yellow Self-Existing Star]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-101-red-planetary-dragon/index.html</link>
             <guid isPermaLink="false">1c9fcc6e-02c8-4be0-827e-9a6ba5748285</guid>
             <pubDate>Tue, 29 Mar 2016 20:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 100 Yellow Solar Sun]]></title>
-            <description><![CDATA[<article><h1>KIN 100 Yellow Solar Sun</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-100-yellow-solar-sun/index.html</link>
-            <guid isPermaLink="false">b7641fbe-622c-4245-b25f-33f5958b8570</guid>
-            <pubDate>Tue, 29 Mar 2016 08:57:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
