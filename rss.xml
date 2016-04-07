@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 20:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 20:22:40 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 110 White Rhythmic Dog]]></title>
+            <description><![CDATA[<article><h1>KIN 110 White Rhythmic Dog</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-110-white-rhythmic-dog/index.html</link>
+            <guid isPermaLink="false">22282ee9-83f9-4466-8161-474e45903150</guid>
+            <pubDate>Thu, 07 Apr 2016 20:21:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 109 Red Overtone Moon]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-102-white-spectral-wind/index.html</link>
             <guid isPermaLink="false">c46d3365-d06c-4a18-a885-dd8d27258dfe</guid>
             <pubDate>Wed, 30 Mar 2016 21:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 101 Red Planetary Dragon]]></title>
-            <description><![CDATA[<article><h1>KIN 101 Red Planetary Dragon</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34859e3d-6d4c-4925-8cb6-c6688447e430.png"></article>]]></description>
-            <link>http://canik.nl/kin-101-red-planetary-dragon/index.html</link>
-            <guid isPermaLink="false">1c9fcc6e-02c8-4be0-827e-9a6ba5748285</guid>
-            <pubDate>Tue, 29 Mar 2016 20:13:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
