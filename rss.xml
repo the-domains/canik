@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 20:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 21:39:52 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 117 Red Cosmic Earth]]></title>
+            <description><![CDATA[<article><h1>KIN 117 Red Cosmic Earth</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-117-red-cosmic-earth/index.html</link>
+            <guid isPermaLink="false">92c03b0c-f7e3-42dd-bdb9-3a18d4c6e032</guid>
+            <pubDate>Thu, 14 Apr 2016 21:38:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 116 Yellow Crystal Warrior]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-109-red-overtone-moon/index.html</link>
             <guid isPermaLink="false">647f22ae-be93-4eda-ac5d-9b2eb7ea7a0e</guid>
             <pubDate>Wed, 06 Apr 2016 20:45:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 108 Yellow Self-Existing Star]]></title>
-            <description><![CDATA[<article><h1>KIN 108 Yellow Self-Existing Star</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-108-yellow-self-existing-star/index.html</link>
-            <guid isPermaLink="false">f394772d-73ef-48f2-b09f-884d82b396be</guid>
-            <pubDate>Tue, 05 Apr 2016 19:14:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
