@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 20:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 21:04:38 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 122 White Overtone Wind]]></title>
+            <description><![CDATA[<article><h1>KIN 122 White Overtone Wind</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-122-white-overtone-wind/index.html</link>
+            <guid isPermaLink="false">2ce90a90-1b73-4564-8364-f89ffffa5fc5</guid>
+            <pubDate>Tue, 19 Apr 2016 21:04:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 121 Red Self-Existing Dragon]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-114-white-planetary-wizard/index.html</link>
             <guid isPermaLink="false">651b5f6e-2000-43e8-abac-aab8a107a2f5</guid>
             <pubDate>Mon, 11 Apr 2016 20:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 112 Yellow Galactic Human]]></title>
-            <description><![CDATA[<article><h1>KIN 112 Yellow Galactic Human</h1><p>I Harmonize in Order to Influence</p></article>]]></description>
-            <link>http://canik.nl/kin-112-yellow-galactic-human/index.html</link>
-            <guid isPermaLink="false">506d5b9e-c7b7-4776-87bb-bae1756887f4</guid>
-            <pubDate>Mon, 11 Apr 2016 07:10:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
