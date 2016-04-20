@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 21:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 21:35:47 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 123 Blue Rhythmic Night]]></title>
+            <description><![CDATA[<article><h1>KIN 123 Blue Rhythmic Night</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-123-blue-rhythmic-night/index.html</link>
+            <guid isPermaLink="false">8904d41e-e761-410f-83ee-df9d7d0c944d</guid>
+            <pubDate>Wed, 20 Apr 2016 21:34:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 122 White Overtone Wind]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-115-blue-spectral-eagle/index.html</link>
             <guid isPermaLink="false">32b0e93e-ef67-4d09-903b-468e17afe495</guid>
             <pubDate>Tue, 12 Apr 2016 20:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 114 White Planetary Wizard]]></title>
-            <description><![CDATA[<article><h1>KIN 114 White Planetary Wizard</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-114-white-planetary-wizard/index.html</link>
-            <guid isPermaLink="false">651b5f6e-2000-43e8-abac-aab8a107a2f5</guid>
-            <pubDate>Mon, 11 Apr 2016 20:13:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
