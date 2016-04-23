@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 07:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 21:40:53 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 126 White Solar World-Bridger]]></title>
+            <description><![CDATA[<article><h1>KIN 126 White Solar World-Bridger</h1><p>I Pulse in order to Equalize</p></article>]]></description>
+            <link>http://canik.nl/kin-126-white-solar-world-bridger/index.html</link>
+            <guid isPermaLink="false">6e4ee301-59e9-4604-bedf-e47d69235472</guid>
+            <pubDate>Sat, 23 Apr 2016 21:39:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 125 Red Galactic Serpent ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-118-white-magnetic-mirror/index.html</link>
             <guid isPermaLink="false">81f4e860-3590-4a41-add4-da49c57d02ed</guid>
             <pubDate>Fri, 15 Apr 2016 20:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 117 Red Cosmic Earth]]></title>
-            <description><![CDATA[<article><h1>KIN 117 Red Cosmic Earth</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-117-red-cosmic-earth/index.html</link>
-            <guid isPermaLink="false">92c03b0c-f7e3-42dd-bdb9-3a18d4c6e032</guid>
-            <pubDate>Thu, 14 Apr 2016 21:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
