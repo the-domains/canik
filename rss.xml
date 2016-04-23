@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 07:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 07:51:39 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 125 Red Galactic Serpent ]]></title>
+            <description><![CDATA[<article><h1>KIN 125 Red Galactic Serpent </h1><p>I Harmonize in order to Survive</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66199b21-6dc8-4fb1-8563-214c92175d70.png"></article>]]></description>
+            <link>http://canik.nl/kin-125-red-galactic-serpent/index.html</link>
+            <guid isPermaLink="false">bbfce79c-b954-437e-9236-db1e9a2a06e6</guid>
+            <pubDate>Sat, 23 Apr 2016 07:49:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 124 Yellow Resonant Seed]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-117-red-cosmic-earth/index.html</link>
             <guid isPermaLink="false">92c03b0c-f7e3-42dd-bdb9-3a18d4c6e032</guid>
             <pubDate>Thu, 14 Apr 2016 21:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 116 Yellow Crystal Warrior]]></title>
-            <description><![CDATA[<article><h1>KIN 116 Yellow Crystal Warrior</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-116-yellow-crystal-warrior/index.html</link>
-            <guid isPermaLink="false">28ecba8c-1f9b-4a94-9ef2-304af620d440</guid>
-            <pubDate>Wed, 13 Apr 2016 20:20:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
