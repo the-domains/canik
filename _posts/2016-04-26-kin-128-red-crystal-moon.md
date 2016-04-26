@@ -4,20 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-26T20:42:20.380Z'
-dateModified: '2016-04-26T20:41:19.418Z'
+description: I Dedicate in order to Purify
+datePublished: '2016-04-26T20:43:37.173Z'
+dateModified: '2016-04-26T20:42:29.095Z'
+title: KIN 128 Red Crystal Moon
+author: []
+sourcePath: _posts/2016-04-26-kin-128-red-crystal-moon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: KIN 128 Red Crystal Moon
-author: []
 starred: false
-sourcePath: _posts/2016-04-26-kin-128-red-crystal-moon.md
-published: true
 url: kin-128-red-crystal-moon/index.html
 _type: Article
 
