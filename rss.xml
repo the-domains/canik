@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 21:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 20:43:12 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 128 Red Crystal Moon]]></title>
+            <description><![CDATA[<article><h1>KIN 128 Red Crystal Moon</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-128-red-crystal-moon/index.html</link>
+            <guid isPermaLink="false">0776f350-bf06-4ee3-8814-4fc2004d0b63</guid>
+            <pubDate>Tue, 26 Apr 2016 20:42:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 128 Yellow Spectral Star]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-121-red-self-existing-dragon/index.html</link>
             <guid isPermaLink="false">763ab3fd-3a9a-4a4a-ad0b-9de804e0be16</guid>
             <pubDate>Mon, 18 Apr 2016 20:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 120 Yellow Electric Sun]]></title>
-            <description><![CDATA[<p>I Activate in order to Enlighten </p>]]></description>
-            <link>http://canik.nl/kin-120-yellow-electric-sun/index.html</link>
-            <guid isPermaLink="false">3e309be8-67df-4179-be10-9415a0f69db9</guid>
-            <pubDate>Mon, 18 Apr 2016 20:04:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
