@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 20:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 21:40:11 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 131 Blue Magnetic Monkey]]></title>
+            <description><![CDATA[<article><h1>KIN 131 Blue Magnetic Monkey</h1><p>I Unify in order to Play</p></article>]]></description>
+            <link>http://canik.nl/kin-131-blue-magnetic-monkey/index.html</link>
+            <guid isPermaLink="false">c1d62281-dddb-49c0-a873-5ca6b9df0b18</guid>
+            <pubDate>Thu, 28 Apr 2016 21:39:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 130 White Cosmic Dog]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-123-blue-rhythmic-night/index.html</link>
             <guid isPermaLink="false">8904d41e-e761-410f-83ee-df9d7d0c944d</guid>
             <pubDate>Wed, 20 Apr 2016 21:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 122 White Overtone Wind]]></title>
-            <description><![CDATA[<article><h1>KIN 122 White Overtone Wind</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-122-white-overtone-wind/index.html</link>
-            <guid isPermaLink="false">2ce90a90-1b73-4564-8364-f89ffffa5fc5</guid>
-            <pubDate>Tue, 19 Apr 2016 21:04:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
