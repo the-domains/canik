@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 21:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 21:00:05 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 132 Yellow Lunar Human]]></title>
+            <description><![CDATA[<article><h1>KIN 132 Yellow Lunar Human</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-132-yellow-lunar-human/index.html</link>
+            <guid isPermaLink="false">39c284a2-c644-4cb0-ab69-140b94a19e81</guid>
+            <pubDate>Sat, 30 Apr 2016 20:58:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 131 Blue Magnetic Monkey]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-124-yellow-resonant-seed/index.html</link>
             <guid isPermaLink="false">d7082993-d4ca-4cb5-bed8-df71dbd9dc5c</guid>
             <pubDate>Fri, 22 Apr 2016 07:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 123 Blue Rhythmic Night]]></title>
-            <description><![CDATA[<article><h1>KIN 123 Blue Rhythmic Night</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-123-blue-rhythmic-night/index.html</link>
-            <guid isPermaLink="false">8904d41e-e761-410f-83ee-df9d7d0c944d</guid>
-            <pubDate>Wed, 20 Apr 2016 21:34:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
