@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 21:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 20:38:50 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 134 White Self-Existing Wizard]]></title>
+            <description><![CDATA[<article><h1>KIN 134 White Self-Existing Wizard</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-134-white-self-existing-wizard/index.html</link>
+            <guid isPermaLink="false">6e6443d4-fe67-413c-a00d-3066b601eb42</guid>
+            <pubDate>Sun, 01 May 2016 20:37:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 133 Red Electric Skywalker]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-126-white-solar-world-bridger/index.html</link>
             <guid isPermaLink="false">6e4ee301-59e9-4604-bedf-e47d69235472</guid>
             <pubDate>Sat, 23 Apr 2016 21:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 125 Red Galactic Serpent ]]></title>
-            <description><![CDATA[<article><h1>KIN 125 Red Galactic Serpent </h1><p>I Harmonize in order to Survive</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66199b21-6dc8-4fb1-8563-214c92175d70.png"></article>]]></description>
-            <link>http://canik.nl/kin-125-red-galactic-serpent/index.html</link>
-            <guid isPermaLink="false">bbfce79c-b954-437e-9236-db1e9a2a06e6</guid>
-            <pubDate>Sat, 23 Apr 2016 07:49:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
