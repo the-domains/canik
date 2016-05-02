@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 20:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 19:39:25 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 135 Blue Overtone Eagle]]></title>
+            <description><![CDATA[<article><h1>KIN 135 Blue Overtone Eagle</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-135-blue-overtone-eagle/index.html</link>
+            <guid isPermaLink="false">e3b26e1e-c684-4520-a654-c40e2fb557fc</guid>
+            <pubDate>Mon, 02 May 2016 19:38:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 134 White Self-Existing Wizard]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-127-blue-planetary-hand/index.html</link>
             <guid isPermaLink="false">7a6f12e4-c01d-4eee-a6b1-cb463cb97000</guid>
             <pubDate>Sun, 24 Apr 2016 20:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 126 White Solar World-Bridger]]></title>
-            <description><![CDATA[<article><h1>KIN 126 White Solar World-Bridger</h1><p>I Pulse in order to Equalize</p></article>]]></description>
-            <link>http://canik.nl/kin-126-white-solar-world-bridger/index.html</link>
-            <guid isPermaLink="false">6e4ee301-59e9-4604-bedf-e47d69235472</guid>
-            <pubDate>Sat, 23 Apr 2016 21:39:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
