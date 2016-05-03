@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 19:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 21:10:38 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 136 Yellow Rhythmic Warrior]]></title>
+            <description><![CDATA[<article><h1>KIN 136 Yellow Rhythmic Warrior</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-136-yellow-rhythmic-warrior/index.html</link>
+            <guid isPermaLink="false">6a2e03d9-17b9-4e49-bd60-cff198987f73</guid>
+            <pubDate>Tue, 03 May 2016 21:10:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 135 Blue Overtone Eagle]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-128-yellow-spectral-star/index.html</link>
             <guid isPermaLink="false">65c589f5-7e23-4ba7-8226-cf85e164f419</guid>
             <pubDate>Mon, 25 Apr 2016 21:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 127 Blue Planetary Hand]]></title>
-            <description><![CDATA[<article><h1>KIN 127 Blue Planetary Hand</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-127-blue-planetary-hand/index.html</link>
-            <guid isPermaLink="false">7a6f12e4-c01d-4eee-a6b1-cb463cb97000</guid>
-            <pubDate>Sun, 24 Apr 2016 20:30:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
