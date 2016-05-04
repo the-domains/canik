@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 21:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 19:44:11 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 137 Red Resonant Earth]]></title>
+            <description><![CDATA[<article><h1>KIN 137 Red Resonant Earth</h1><p>I Channel in order to Evolve</p></article>]]></description>
+            <link>http://canik.nl/kin-137-red-resonant-earth/index.html</link>
+            <guid isPermaLink="false">9a9f1d83-f7bf-49f6-9472-3b599dc63109</guid>
+            <pubDate>Wed, 04 May 2016 19:43:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 136 Yellow Rhythmic Warrior]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-128-red-crystal-moon/index.html</link>
             <guid isPermaLink="false">0776f350-bf06-4ee3-8814-4fc2004d0b63</guid>
             <pubDate>Tue, 26 Apr 2016 20:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 128 Yellow Spectral Star]]></title>
-            <description><![CDATA[<article><h1>KIN 128 Yellow Spectral Star</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-128-yellow-spectral-star/index.html</link>
-            <guid isPermaLink="false">65c589f5-7e23-4ba7-8226-cf85e164f419</guid>
-            <pubDate>Mon, 25 Apr 2016 21:06:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
