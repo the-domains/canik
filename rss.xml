@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 19:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 20:13:27 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 138 White Galactic Mirror]]></title>
+            <description><![CDATA[<article><h1>KIN 138 White Galactic Mirror</h1><p>I Harmonize in order to Reflect</p></article>]]></description>
+            <link>http://canik.nl/kin-138-white-galactic-mirror/index.html</link>
+            <guid isPermaLink="false">b12a3fae-afd3-4e83-84c0-cf2f0dbef3a3</guid>
+            <pubDate>Thu, 05 May 2016 20:12:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 137 Red Resonant Earth]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-130-white-cosmic-dog/index.html</link>
             <guid isPermaLink="false">7951fc41-aeb1-47aa-921f-a8d05a195476</guid>
             <pubDate>Wed, 27 Apr 2016 20:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 128 Red Crystal Moon]]></title>
-            <description><![CDATA[<article><h1>KIN 128 Red Crystal Moon</h1><p>I Dedicate in order to Purify</p></article>]]></description>
-            <link>http://canik.nl/kin-128-red-crystal-moon/index.html</link>
-            <guid isPermaLink="false">0776f350-bf06-4ee3-8814-4fc2004d0b63</guid>
-            <pubDate>Tue, 26 Apr 2016 20:43:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
