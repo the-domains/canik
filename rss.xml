@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 21:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 07:19:22 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 141 Red Spectral Dragon]]></title>
+            <description><![CDATA[<article><h1>KIN 141 Red Spectral Dragon</h1><p>I Dissolve in order to Nurture </p></article>]]></description>
+            <link>http://canik.nl/kin-141-red-spectral-dragon/index.html</link>
+            <guid isPermaLink="false">b97b8415-50c9-4b6d-9472-146ec3a06301</guid>
+            <pubDate>Mon, 09 May 2016 07:19:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 140 Yellow Planetary Sun]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-133-red-electric-skywalker/index.html</link>
             <guid isPermaLink="false">c42c4690-48a4-4d4e-bc19-74dd2b158025</guid>
             <pubDate>Sat, 30 Apr 2016 21:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 132 Yellow Lunar Human]]></title>
-            <description><![CDATA[<article><h1>KIN 132 Yellow Lunar Human</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-132-yellow-lunar-human/index.html</link>
-            <guid isPermaLink="false">39c284a2-c644-4cb0-ab69-140b94a19e81</guid>
-            <pubDate>Sat, 30 Apr 2016 20:58:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
