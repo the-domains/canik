@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 21:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 20:49:14 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 147 Blue Self-Existing Hand]]></title>
+            <description><![CDATA[<article><h1>KIN 147 Blue Self-Existing Hand</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-147-blue-self-existing-hand/index.html</link>
+            <guid isPermaLink="false">5e38754d-7e91-4819-9c1a-3fabeeaeffc6</guid>
+            <pubDate>Sat, 14 May 2016 20:47:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 146 White Electric World-Bridger ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-139-blue-solar-storm/index.html</link>
             <guid isPermaLink="false">a88366f4-f0dc-477e-a8a6-f7de372acc95</guid>
             <pubDate>Fri, 06 May 2016 20:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 138 White Galactic Mirror]]></title>
-            <description><![CDATA[<article><h1>KIN 138 White Galactic Mirror</h1><p>I Harmonize in order to Reflect</p></article>]]></description>
-            <link>http://canik.nl/kin-138-white-galactic-mirror/index.html</link>
-            <guid isPermaLink="false">b12a3fae-afd3-4e83-84c0-cf2f0dbef3a3</guid>
-            <pubDate>Thu, 05 May 2016 20:12:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
