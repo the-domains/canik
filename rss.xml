@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 20:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 21:08:30 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 150 White Resonant Dog]]></title>
+            <description><![CDATA[<article><h1>KIN 150 White Resonant Dog</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-150-white-resonant-dog/index.html</link>
+            <guid isPermaLink="false">6a1bac40-6b20-476c-894e-f2b3356208d1</guid>
+            <pubDate>Tue, 17 May 2016 21:07:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 149 Red Rhythmic Moon]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-142-white-crystal-wind/index.html</link>
             <guid isPermaLink="false">ec1beeb3-0122-49d9-b8d5-651fc7d14a09</guid>
             <pubDate>Mon, 09 May 2016 20:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 141 Red Spectral Dragon]]></title>
-            <description><![CDATA[<article><h1>KIN 141 Red Spectral Dragon</h1><p>I Dissolve in order to Nurture </p></article>]]></description>
-            <link>http://canik.nl/kin-141-red-spectral-dragon/index.html</link>
-            <guid isPermaLink="false">b97b8415-50c9-4b6d-9472-146ec3a06301</guid>
-            <pubDate>Mon, 09 May 2016 07:19:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
