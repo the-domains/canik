@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 20:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 20:52:22 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 152 Yellow Solar Human]]></title>
+            <description><![CDATA[<article><h1>KIN 152 Yellow Solar Human</h1><p>I Pulse in order to Influence </p></article>]]></description>
+            <link>http://canik.nl/kin-152-yellow-solar-human/index.html</link>
+            <guid isPermaLink="false">de96dcd8-3de5-4547-8115-d354c5e35362</guid>
+            <pubDate>Thu, 19 May 2016 20:51:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 151 Blue Galactic Monkey]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-144-yellow-magnetic-seed/index.html</link>
             <guid isPermaLink="false">8b77e128-77b2-4ec2-90f7-8c5b145c0e72</guid>
             <pubDate>Wed, 11 May 2016 18:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 143 Blue Cosmic Night]]></title>
-            <description><![CDATA[<article><h1>KIN 143 Blue Cosmic Night</h1><p>I Endure in order to Dream</p></article>]]></description>
-            <link>http://canik.nl/kin-143-blue-cosmic-night/index.html</link>
-            <guid isPermaLink="false">35753959-f097-4391-96d9-523c352aae27</guid>
-            <pubDate>Tue, 10 May 2016 20:20:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
