@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 20:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 20:20:29 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 153 Red Planetary Skywalker ]]></title>
+            <description><![CDATA[<article><h1>KIN 153 Red Planetary Skywalker </h1><p>I Perfect in order to Explore</p></article>]]></description>
+            <link>http://canik.nl/kin-153-red-planetary-skywalker/index.html</link>
+            <guid isPermaLink="false">7f790cd2-2556-460b-9c73-8eb0727e19a0</guid>
+            <pubDate>Fri, 20 May 2016 20:19:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 152 Yellow Solar Human]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-145-red-lunar-serpent/index.html</link>
             <guid isPermaLink="false">8187338a-f8cf-46f5-9aee-ac2368885d55</guid>
             <pubDate>Thu, 12 May 2016 20:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 144 Yellow Magnetic Seed]]></title>
-            <description><![CDATA[<article><h1>KIN 144 Yellow Magnetic Seed</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-144-yellow-magnetic-seed/index.html</link>
-            <guid isPermaLink="false">8b77e128-77b2-4ec2-90f7-8c5b145c0e72</guid>
-            <pubDate>Wed, 11 May 2016 18:55:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
