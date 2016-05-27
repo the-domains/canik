@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 08:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 08:29:02 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 158 White Lunar Mirror]]></title>
+            <description><![CDATA[<article><h1>KIN 158 White Lunar Mirror</h1><p>I Polarize in order to Reflect</p></article>]]></description>
+            <link>http://canik.nl/kin-158-white-lunar-mirror/index.html</link>
+            <guid isPermaLink="false">d2ec71b2-b636-4b0a-a0f1-849f7404ceaf</guid>
+            <pubDate>Fri, 27 May 2016 08:28:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 157 Red Magnetic Earth ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-150-white-resonant-dog/index.html</link>
             <guid isPermaLink="false">6a1bac40-6b20-476c-894e-f2b3356208d1</guid>
             <pubDate>Tue, 17 May 2016 21:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 149 Red Rhythmic Moon]]></title>
-            <description><![CDATA[<article><h1>KIN 149 Red Rhythmic Moon</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-149-red-rhythmic-moon/index.html</link>
-            <guid isPermaLink="false">6ae9163a-4cd2-4389-b565-b715a2f9b84b</guid>
-            <pubDate>Mon, 16 May 2016 20:51:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
