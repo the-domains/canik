@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 08:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 08:31:07 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 159 Blue Electric Storm ]]></title>
+            <description><![CDATA[<article><h1>KIN 159 Blue Electric Storm </h1><p>I Activate in order to Catalyze</p></article>]]></description>
+            <link>http://canik.nl/kin-159-blue-electric-storm/index.html</link>
+            <guid isPermaLink="false">eff0668d-b33d-4609-84f5-9c84dc5f8a5b</guid>
+            <pubDate>Fri, 27 May 2016 08:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 158 White Lunar Mirror]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-151-blue-galactic-monkey/index.html</link>
             <guid isPermaLink="false">ba2b5fc9-8ba7-4751-86c0-1d5239964f69</guid>
             <pubDate>Wed, 18 May 2016 20:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 150 White Resonant Dog]]></title>
-            <description><![CDATA[<article><h1>KIN 150 White Resonant Dog</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-150-white-resonant-dog/index.html</link>
-            <guid isPermaLink="false">6a1bac40-6b20-476c-894e-f2b3356208d1</guid>
-            <pubDate>Tue, 17 May 2016 21:07:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
