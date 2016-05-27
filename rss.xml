@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 08:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 08:28:13 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KIN 157 Red Magnetic Earth ]]></title>
+            <description><![CDATA[<article><h1>KIN 157 Red Magnetic Earth </h1><p>I Unify in order to Evolve</p></article>]]></description>
+            <link>http://canik.nl/kin-157-red-magnetic-earth/index.html</link>
+            <guid isPermaLink="false">410531a9-01e7-4069-87d5-9b2035423cce</guid>
+            <pubDate>Fri, 27 May 2016 08:27:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KIN 156 Yellow Cosmic Warrior ]]></title>
-            <description><![CDATA[<article><h1>KIN 156 Yellow Cosmic Warrior </h1><p>I Endure in order to Question </p></article>]]></description>
+            <description><![CDATA[<article><h1>KIN 156 Yellow Cosmic Warrior </h1><p>I Endure in order to Question</p></article>]]></description>
             <link>http://canik.nl/kin-156-yellow-cosmic-warrior/index.html</link>
             <guid isPermaLink="false">81c6470c-d58c-4304-9920-6d94f7a7ca1a</guid>
             <pubDate>Fri, 27 May 2016 08:26:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-149-red-rhythmic-moon/index.html</link>
             <guid isPermaLink="false">6ae9163a-4cd2-4389-b565-b715a2f9b84b</guid>
             <pubDate>Mon, 16 May 2016 20:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 148 Yellow Overtone Star]]></title>
-            <description><![CDATA[<article><h1>KIN 148 Yellow Overtone Star</h1><p>I Empower in order to Beautify</p></article>]]></description>
-            <link>http://canik.nl/kin-148-yellow-overtone-star/index.html</link>
-            <guid isPermaLink="false">28af04a9-212a-43a2-a8b2-852f81a1d938</guid>
-            <pubDate>Mon, 16 May 2016 20:50:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
