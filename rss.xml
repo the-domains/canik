@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 08:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 20:08:02 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 162 White Rhythmic Wind]]></title>
+            <description><![CDATA[<article><h1>KIN 162 White Rhythmic Wind</h1><p>I Organize in order to Communicate</p></article>]]></description>
+            <link>http://canik.nl/kin-162-white-rhythmic-wind/index.html</link>
+            <guid isPermaLink="false">d2163620-57ca-4efd-84ec-7c6dd4da2ae2</guid>
+            <pubDate>Mon, 30 May 2016 20:07:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 159 Blue Electric Storm ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-152-yellow-solar-human/index.html</link>
             <guid isPermaLink="false">de96dcd8-3de5-4547-8115-d354c5e35362</guid>
             <pubDate>Thu, 19 May 2016 20:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 151 Blue Galactic Monkey]]></title>
-            <description><![CDATA[<article><h1>KIN 151 Blue Galactic Monkey</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-151-blue-galactic-monkey/index.html</link>
-            <guid isPermaLink="false">ba2b5fc9-8ba7-4751-86c0-1d5239964f69</guid>
-            <pubDate>Wed, 18 May 2016 20:44:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
