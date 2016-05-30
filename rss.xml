@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 20:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 20:45:56 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 163 Blue Resonant]]></title>
+            <description><![CDATA[<article><h1>KIN 163 Blue Resonant</h1><p>Night I Channel in order to Dream</p></article>]]></description>
+            <link>http://canik.nl/kin-163-blue-resonant/index.html</link>
+            <guid isPermaLink="false">eb69f9d0-5ba5-4a1e-8b6d-4d93814aff89</guid>
+            <pubDate>Mon, 30 May 2016 20:45:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 162 White Rhythmic Wind]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-153-red-planetary-skywalker/index.html</link>
             <guid isPermaLink="false">7f790cd2-2556-460b-9c73-8eb0727e19a0</guid>
             <pubDate>Fri, 20 May 2016 20:19:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 152 Yellow Solar Human]]></title>
-            <description><![CDATA[<article><h1>KIN 152 Yellow Solar Human</h1><p>I Pulse in order to Influence </p></article>]]></description>
-            <link>http://canik.nl/kin-152-yellow-solar-human/index.html</link>
-            <guid isPermaLink="false">de96dcd8-3de5-4547-8115-d354c5e35362</guid>
-            <pubDate>Thu, 19 May 2016 20:51:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
