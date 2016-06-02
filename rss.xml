@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 20:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 20:57:34 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 166 White Planetary Worldbridger]]></title>
+            <description><![CDATA[<article><h1>KIN 166 White Planetary Worldbridger</h1><p> I Perfect in order to Equalize</p></article>]]></description>
+            <link>http://canik.nl/kin-166-white-planetary-worldbridger/index.html</link>
+            <guid isPermaLink="false">29115c4a-f662-4bc4-ba6c-fd4198d02f01</guid>
+            <pubDate>Thu, 02 Jun 2016 20:56:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 163 Blue Resonant]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-154-white-spectral-wizard/index.html</link>
             <guid isPermaLink="false">775411c4-1cea-432f-ab92-dd6856dd9a04</guid>
             <pubDate>Sat, 21 May 2016 20:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 153 Red Planetary Skywalker ]]></title>
-            <description><![CDATA[<article><h1>KIN 153 Red Planetary Skywalker </h1><p>I Perfect in order to Explore</p></article>]]></description>
-            <link>http://canik.nl/kin-153-red-planetary-skywalker/index.html</link>
-            <guid isPermaLink="false">7f790cd2-2556-460b-9c73-8eb0727e19a0</guid>
-            <pubDate>Fri, 20 May 2016 20:19:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
