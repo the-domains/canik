@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 19:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 19:28:25 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 170 White Magnetic Dog]]></title>
+            <description><![CDATA[<article><h1>KIN 170 White Magnetic Dog</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-170-white-magnetic-dog/index.html</link>
+            <guid isPermaLink="false">d830bea4-e75a-481b-8110-e6bb2dc662d2</guid>
+            <pubDate>Mon, 06 Jun 2016 19:26:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 169 Red Cosmic Moon]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-156-yellow-cosmic-warrior/index.html</link>
             <guid isPermaLink="false">81c6470c-d58c-4304-9920-6d94f7a7ca1a</guid>
             <pubDate>Fri, 27 May 2016 08:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 155 Blue Crystal Eagle]]></title>
-            <description><![CDATA[<article><h1>KIN 155 Blue Crystal Eagle</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-155-blue-crystal-eagle/index.html</link>
-            <guid isPermaLink="false">40627650-7d3f-4290-afc3-9566a1ca521b</guid>
-            <pubDate>Sun, 22 May 2016 19:48:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
