@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 08:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 21:45:23 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 173 Red Self-Existing Skywalker]]></title>
+            <description><![CDATA[<article><h1>KIN 173 Red Self-Existing Skywalker</h1><p>I Define in order to Explore</p></article>]]></description>
+            <link>http://canik.nl/kin-173-red-self-existing-skywalker/index.html</link>
+            <guid isPermaLink="false">9b475e89-eff0-4a38-bc82-c4fcc9b6893e</guid>
+            <pubDate>Thu, 09 Jun 2016 21:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 172 Yellow Electric Human ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-158-white-lunar-mirror/index.html</link>
             <guid isPermaLink="false">d2ec71b2-b636-4b0a-a0f1-849f7404ceaf</guid>
             <pubDate>Fri, 27 May 2016 08:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 157 Red Magnetic Earth ]]></title>
-            <description><![CDATA[<article><h1>KIN 157 Red Magnetic Earth </h1><p>I Unify in order to Evolve</p></article>]]></description>
-            <link>http://canik.nl/kin-157-red-magnetic-earth/index.html</link>
-            <guid isPermaLink="false">410531a9-01e7-4069-87d5-9b2035423cce</guid>
-            <pubDate>Fri, 27 May 2016 08:27:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
