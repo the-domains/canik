@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 11:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 21:13:43 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 175 Blue Rhythmic Eagle ]]></title>
+            <description><![CDATA[<article><h1>KIN 175 Blue Rhythmic Eagle </h1><p>I Organize in order to Create </p></article>]]></description>
+            <link>http://canik.nl/kin-175-blue-rhythmic-eagle/index.html</link>
+            <guid isPermaLink="false">32801612-9f16-42bb-b116-387271a5bba6</guid>
+            <pubDate>Sat, 11 Jun 2016 21:13:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 174 White Overtone Wizard]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-162-white-rhythmic-wind/index.html</link>
             <guid isPermaLink="false">d2163620-57ca-4efd-84ec-7c6dd4da2ae2</guid>
             <pubDate>Mon, 30 May 2016 20:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 159 Blue Electric Storm ]]></title>
-            <description><![CDATA[<article><h1>KIN 159 Blue Electric Storm </h1><p>I Activate in order to Catalyze</p></article>]]></description>
-            <link>http://canik.nl/kin-159-blue-electric-storm/index.html</link>
-            <guid isPermaLink="false">eff0668d-b33d-4609-84f5-9c84dc5f8a5b</guid>
-            <pubDate>Fri, 27 May 2016 08:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
