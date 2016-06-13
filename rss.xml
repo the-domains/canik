@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 21:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 19:47:16 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 176 Yellow Resonant Warrior]]></title>
+            <description><![CDATA[<article><h1>KIN 176 Yellow Resonant Warrior</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-176-yellow-resonant-warrior/index.html</link>
+            <guid isPermaLink="false">05ca80a6-32e2-4e49-a581-7fe6acfed76f</guid>
+            <pubDate>Mon, 13 Jun 2016 19:46:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 175 Blue Rhythmic Eagle ]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-163-blue-resonant/index.html</link>
             <guid isPermaLink="false">eb69f9d0-5ba5-4a1e-8b6d-4d93814aff89</guid>
             <pubDate>Mon, 30 May 2016 20:45:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 162 White Rhythmic Wind]]></title>
-            <description><![CDATA[<article><h1>KIN 162 White Rhythmic Wind</h1><p>I Organize in order to Communicate</p></article>]]></description>
-            <link>http://canik.nl/kin-162-white-rhythmic-wind/index.html</link>
-            <guid isPermaLink="false">d2163620-57ca-4efd-84ec-7c6dd4da2ae2</guid>
-            <pubDate>Mon, 30 May 2016 20:07:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
