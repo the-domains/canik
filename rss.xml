@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 19:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 19:48:03 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 177 Red Galactic Earth]]></title>
+            <description><![CDATA[<article><h1>KIN 177 Red Galactic Earth</h1><p>I Harmonize in order to Evolve</p></article>]]></description>
+            <link>http://canik.nl/kin-177-red-galactic-earth/index.html</link>
+            <guid isPermaLink="false">b0b4e62e-f43f-47a3-9b2e-ab38530eb6be</guid>
+            <pubDate>Mon, 13 Jun 2016 19:47:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 176 Yellow Resonant Warrior]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-166-white-planetary-worldbridger/index.html</link>
             <guid isPermaLink="false">29115c4a-f662-4bc4-ba6c-fd4198d02f01</guid>
             <pubDate>Thu, 02 Jun 2016 20:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 163 Blue Resonant]]></title>
-            <description><![CDATA[<article><h1>KIN 163 Blue Resonant</h1><p>Night I Channel in order to Dream</p></article>]]></description>
-            <link>http://canik.nl/kin-163-blue-resonant/index.html</link>
-            <guid isPermaLink="false">eb69f9d0-5ba5-4a1e-8b6d-4d93814aff89</guid>
-            <pubDate>Mon, 30 May 2016 20:45:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
