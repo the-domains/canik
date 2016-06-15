@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 19:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 04:56:13 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 178 White Solar Mirror]]></title>
+            <description><![CDATA[<article><h1>KIN 178 White Solar Mirror</h1><p>I Pulse in order to Reflect</p></article>]]></description>
+            <link>http://canik.nl/kin-178-white-solar-mirror/index.html</link>
+            <guid isPermaLink="false">503557c7-7365-4732-aefc-7a68a291ec6f</guid>
+            <pubDate>Wed, 15 Jun 2016 04:55:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 177 Red Galactic Earth]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-169-red-cosmic-moon/index.html</link>
             <guid isPermaLink="false">62d1f085-58b3-44d2-9e59-e13719b4df09</guid>
             <pubDate>Sun, 05 Jun 2016 19:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 166 White Planetary Worldbridger]]></title>
-            <description><![CDATA[<article><h1>KIN 166 White Planetary Worldbridger</h1><p> I Perfect in order to Equalize</p></article>]]></description>
-            <link>http://canik.nl/kin-166-white-planetary-worldbridger/index.html</link>
-            <guid isPermaLink="false">29115c4a-f662-4bc4-ba6c-fd4198d02f01</guid>
-            <pubDate>Thu, 02 Jun 2016 20:56:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
