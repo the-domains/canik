@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 04:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 08:17:48 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 179 Blue Planetary Storm]]></title>
+            <description><![CDATA[<article><h1>KIN 179 Blue Planetary Storm</h1><p>I Perfect in order to Catalyze</p></article>]]></description>
+            <link>http://canik.nl/kin-179-blue-planetary-storm/index.html</link>
+            <guid isPermaLink="false">09196465-73d0-4a7f-a9f2-b7525da00ab6</guid>
+            <pubDate>Thu, 16 Jun 2016 08:16:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 178 White Solar Mirror]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-170-white-magnetic-dog/index.html</link>
             <guid isPermaLink="false">d830bea4-e75a-481b-8110-e6bb2dc662d2</guid>
             <pubDate>Mon, 06 Jun 2016 19:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 169 Red Cosmic Moon]]></title>
-            <description><![CDATA[<article><h1>KIN 169 Red Cosmic Moon</h1><p>I Endure in order to Purify</p></article>]]></description>
-            <link>http://canik.nl/kin-169-red-cosmic-moon/index.html</link>
-            <guid isPermaLink="false">62d1f085-58b3-44d2-9e59-e13719b4df09</guid>
-            <pubDate>Sun, 05 Jun 2016 19:02:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
