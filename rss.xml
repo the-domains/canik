@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 08:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 09:10:50 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 180 Yellow Spectral Sun]]></title>
+            <description><![CDATA[<article><h1>KIN 180 Yellow Spectral Sun</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-180-yellow-spectral-sun/index.html</link>
+            <guid isPermaLink="false">50d1447c-f7de-4d12-abf4-7852431fc092</guid>
+            <pubDate>Fri, 17 Jun 2016 09:09:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 179 Blue Planetary Storm]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-172-yellow-electric-human/index.html</link>
             <guid isPermaLink="false">1074015d-8582-46c6-9920-cf9b572eb4d5</guid>
             <pubDate>Thu, 09 Jun 2016 08:39:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 170 White Magnetic Dog]]></title>
-            <description><![CDATA[<article><h1>KIN 170 White Magnetic Dog</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-170-white-magnetic-dog/index.html</link>
-            <guid isPermaLink="false">d830bea4-e75a-481b-8110-e6bb2dc662d2</guid>
-            <pubDate>Mon, 06 Jun 2016 19:26:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
