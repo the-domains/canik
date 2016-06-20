@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 08:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 07:33:42 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 183 Blue Magnetic Night]]></title>
+            <description><![CDATA[<article><h1>KIN 183 Blue Magnetic Night</h1><p></p></article>]]></description>
+            <link>http://canik.nl/kin-183-blue-magnetic-night/index.html</link>
+            <guid isPermaLink="false">104671ae-b2ed-453a-a6cd-8ea3112bdd92</guid>
+            <pubDate>Mon, 20 Jun 2016 07:32:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 182 White Cosmic Wind]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-175-blue-rhythmic-eagle/index.html</link>
             <guid isPermaLink="false">32801612-9f16-42bb-b116-387271a5bba6</guid>
             <pubDate>Sat, 11 Jun 2016 21:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 174 White Overtone Wizard]]></title>
-            <description><![CDATA[<article><h1>KIN 174 White Overtone Wizard</h1><p>I Empower in order to Enchant</p></article>]]></description>
-            <link>http://canik.nl/kin-174-white-overtone-wizard/index.html</link>
-            <guid isPermaLink="false">0305cb7f-0e11-4a79-9a06-82e995ba859b</guid>
-            <pubDate>Sat, 11 Jun 2016 11:51:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
