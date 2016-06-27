@@ -1,17 +1,17 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: I Empower in order to Know
-datePublished: '2016-06-24T07:08:49.240Z'
-dateModified: '2016-06-24T07:08:26.885Z'
-title: KIN 187 Blue Overtone Hand
-author: []
+datePublished: '2016-06-27T18:53:25.938Z'
 sourcePath: _posts/2016-06-23-kin-187-blue-overtone-hand.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-06-27T18:53:17.271Z'
+title: KIN 187 Blue Overtone Hand
 publisher: null
+description: I Empower in order to Know
+inLanguage: null
+inNav: false
 starred: false
 url: kin-187-blue-overtone-hand/index.html
 _type: Article
