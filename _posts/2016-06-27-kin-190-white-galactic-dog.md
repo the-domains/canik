@@ -1,24 +1,22 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: I Harmonize in order to Love
-datePublished: '2016-06-27T06:41:18.337Z'
-dateModified: '2016-06-27T06:40:31.707Z'
-authors: []
-publisher: null
-title: KIN 190 White Galactic Dog
-author: []
-starred: false
+datePublished: '2016-06-27T18:51:46.017Z'
 sourcePath: _posts/2016-06-27-kin-190-white-galactic-dog.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-06-27T18:49:48.078Z'
+title: KIN 190 White Galactic Dog
+publisher: null
+description: I Harmonize in order to Love
+inLanguage: null
+inNav: false
+starred: false
 url: kin-190-white-galactic-dog/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f245f787-df02-4dc9-8ecf-1b5bac2f6d6a.png)
-
 # KIN 190 White Galactic Dog
 
 I Harmonize in order to Love
@@ -30,3 +28,4 @@ I seal the Process of Heart
 With the Galactic tone of Integrity
 
 I am Guided by the Power of Timelessness
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24509572-928e-470c-aa02-425b141336fc.png)
