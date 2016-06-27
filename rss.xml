@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 18:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 18:56:11 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 183 Blue Magnetic Night]]></title>
+            <description><![CDATA[<article><h1>KIN 183 Blue Magnetic Night</h1><p>I Unify in order to Dream</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f7ccb25-474b-4b63-9dcd-1b3e97479e74.png"></article>]]></description>
+            <link>http://canik.nl/kin-183-blue-magnetic-night/index.html</link>
+            <guid isPermaLink="false">104671ae-b2ed-453a-a6cd-8ea3112bdd92</guid>
+            <pubDate>Mon, 27 Jun 2016 18:55:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 184 Yellow Lunar Seed]]></title>
@@ -61,13 +68,6 @@
             <link>http://canik.nl/kin-190-white-galactic-dog/index.html</link>
             <guid isPermaLink="false">c31823ac-8aa7-4aae-8256-e69ba1f446a5</guid>
             <pubDate>Mon, 27 Jun 2016 18:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 183 Blue Magnetic Night]]></title>
-            <description><![CDATA[<article><h1>KIN 183 Blue Magnetic Night</h1><p></p></article>]]></description>
-            <link>http://canik.nl/kin-183-blue-magnetic-night/index.html</link>
-            <guid isPermaLink="false">104671ae-b2ed-453a-a6cd-8ea3112bdd92</guid>
-            <pubDate>Mon, 20 Jun 2016 07:32:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 182 White Cosmic Wind]]></title>
