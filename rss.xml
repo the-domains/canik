@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 18:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 18:55:02 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 185 Red Electric Serpent]]></title>
+            <description><![CDATA[<article><h1>KIN 185 Red Electric Serpent</h1><p>I Activate in order to Survive</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a603b5a-f168-4e77-b376-1a5c77112013.png"></article>]]></description>
+            <link>http://canik.nl/kin-185-red-electric-serpent/index.html</link>
+            <guid isPermaLink="false">cb4d36ef-4085-495f-99aa-3ae92f0884ec</guid>
+            <pubDate>Mon, 27 Jun 2016 18:54:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 186 White Self-Existing Worldbridger]]></title>
@@ -47,13 +54,6 @@
             <link>http://canik.nl/kin-190-white-galactic-dog/index.html</link>
             <guid isPermaLink="false">c31823ac-8aa7-4aae-8256-e69ba1f446a5</guid>
             <pubDate>Mon, 27 Jun 2016 18:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 185 Red Electric Serpent]]></title>
-            <description><![CDATA[<article><h1>KIN 185 Red Electric Serpent</h1><p>I Activate in order to Survive</p></article>]]></description>
-            <link>http://canik.nl/kin-185-red-electric-serpent/index.html</link>
-            <guid isPermaLink="false">cb4d36ef-4085-495f-99aa-3ae92f0884ec</guid>
-            <pubDate>Tue, 21 Jun 2016 20:06:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 184 Yellow Lunar Seed]]></title>
