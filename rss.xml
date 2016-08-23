@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 22:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 22:15:03 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 43 Blue Self-Existing Night]]></title>
+            <description><![CDATA[<article><h1>KIN 43 Blue Self-Existing Night</h1><p>I Define in Order to Dream</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c76e28c502e9598b72820c6055226249df13c3e.png"></article>]]></description>
+            <link>http://canik.nl/kin-43-blue-self-existing-night/index.html</link>
+            <guid isPermaLink="false">cf054ae8-b7ad-4712-ab2c-e8b3306111a5</guid>
+            <pubDate>Tue, 23 Aug 2016 22:14:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 92 Yellow Magnetic Human]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-189-red-resonant-moon/index.html</link>
             <guid isPermaLink="false">b21f92d4-b96e-4d31-8c24-eab9e0ee6e13</guid>
             <pubDate>Mon, 27 Jun 2016 18:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 190 White Galactic Dog]]></title>
-            <description><![CDATA[<article><h1>KIN 190 White Galactic Dog</h1><p>I Harmonize in order to Love</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24509572-928e-470c-aa02-425b141336fc.png"></article>]]></description>
-            <link>http://canik.nl/kin-190-white-galactic-dog/index.html</link>
-            <guid isPermaLink="false">c31823ac-8aa7-4aae-8256-e69ba1f446a5</guid>
-            <pubDate>Mon, 27 Jun 2016 18:51:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
