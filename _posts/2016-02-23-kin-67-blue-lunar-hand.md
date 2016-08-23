@@ -1,30 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-02-23T19:14:11.191Z'
-dateModified: '2016-02-23T19:13:44.880Z'
-title: KIN 67 Blue Lunar Hand
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-23T22:16:08.558Z'
 sourcePath: _posts/2016-02-23-kin-67-blue-lunar-hand.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-23T22:16:08.099Z'
+title: KIN 67 Blue Lunar Hand
+publisher: {}
+description: I Polarize in order to Know
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: kin-67-blue-lunar-hand/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34527e77-c4a5-4113-9e7b-4fab5a8efd3c.png)
-
 # KIN 67 Blue Lunar Hand
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b31f605beb39e12e9f5736acf0540620184c4ba.png)
 
 I Polarize in order to Know
 
@@ -32,6 +27,6 @@ Stabilizing Healing
 
 I seal the Store of Accomplishment
 
-With the Lunar tone of Challenge 
+With the Lunar tone of Challenge
 
 I am Guided by the Power of Self-Generation
