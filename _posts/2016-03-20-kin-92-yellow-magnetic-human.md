@@ -1,30 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-20T21:06:25.396Z'
-dateModified: '2016-03-20T21:06:13.245Z'
-title: KIN 92 Yellow Magnetic Human
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-23T22:04:23.579Z'
 sourcePath: _posts/2016-03-20-kin-92-yellow-magnetic-human.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T22:04:22.202Z'
+title: KIN 92 Yellow Magnetic Human
+publisher: {}
+description: I Unify in Order to Influence
+inLanguage: null
+inNav: false
+starred: false
 url: kin-92-yellow-magnetic-human/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda50ba7-e8d5-4b60-ab71-0db4762f65c0.png)
-
 # KIN 92 Yellow Magnetic Human
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda50ba7-e8d5-4b60-ab71-0db4762f65c0.png)
 
 I Unify in Order to Influence
 
