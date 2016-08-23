@@ -1,37 +1,34 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-01-31T12:58:15.362Z'
-dateModified: '2016-01-31T12:58:04.862Z'
-title: "KIN 43 Blue Self-Existing Night\_"
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-23T22:14:04.659Z'
 sourcePath: _posts/2016-01-31-kin-43-blue-self-existing-night.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-23T22:14:04.158Z'
+title: KIN 43 Blue Self-Existing Night
+publisher: {}
+description: I Define in Order to Dream
+inLanguage: null
+inNav: false
+starred: false
 url: kin-43-blue-self-existing-night/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/705610eea792748a7866b1902e925857b6bbb3a4.png)
+# KIN 43 Blue Self-Existing Night
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c76e28c502e9598b72820c6055226249df13c3e.png)
 
-# KIN 43 Blue Self-Existing Night 
+I Define in Order to Dream
 
-I Define in Order to Dream 
+Measuring Intuition
 
-Measuring Intuition 
+I seal the input of Abundance with the Self-Existing tone of Form
 
-I seal the input of Abundance
-With the Self-Existing tone of Form 
+I am guided by the power of Self-Generation 
 
-I am guided by the power of Self-Generation
-I am a Galactic Activation Portal, enter me
+_I am a Galactic Activation Portal, enter me_
