@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 18:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 22:04:27 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 92 Yellow Magnetic Human]]></title>
+            <description><![CDATA[<article><h1>KIN 92 Yellow Magnetic Human</h1><p>I Unify in Order to Influence</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda50ba7-e8d5-4b60-ab71-0db4762f65c0.png"></article>]]></description>
+            <link>http://canik.nl/kin-92-yellow-magnetic-human/index.html</link>
+            <guid isPermaLink="false">953f9e63-42ce-4618-b45a-ee5a8a713d7b</guid>
+            <pubDate>Tue, 23 Aug 2016 22:04:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 183 Blue Magnetic Night]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-190-white-galactic-dog/index.html</link>
             <guid isPermaLink="false">c31823ac-8aa7-4aae-8256-e69ba1f446a5</guid>
             <pubDate>Mon, 27 Jun 2016 18:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 182 White Cosmic Wind]]></title>
-            <description><![CDATA[<article><h1>KIN 182 White Cosmic Wind</h1><p>I Endure in order to Communicate</p></article>]]></description>
-            <link>http://canik.nl/kin-182-white-cosmic-wind/index.html</link>
-            <guid isPermaLink="false">334947b4-bf6b-48a0-8814-62aed5734483</guid>
-            <pubDate>Sun, 19 Jun 2016 08:36:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
