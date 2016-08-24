@@ -1,25 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: I Dedicate in order to Nurture
-datePublished: '2016-06-18T06:19:59.238Z'
-dateModified: '2016-06-18T06:19:39.447Z'
-authors: []
-publisher: null
-title: KIN 181 Red Crystal Dragon
-author: []
-starred: false
+datePublished: '2016-08-24T07:28:21.288Z'
 sourcePath: _posts/2016-06-18-kin-181-red-crystal-dragon.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-24T07:28:20.443Z'
+title: KIN 181 Red Crystal Dragon
+publisher: {}
+description: I Dedicate in order to Nurture
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: kin-181-red-crystal-dragon/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb33a673-f037-4017-af77-f3f1d5b5dfb1.png)
-
 # KIN 181 Red Crystal Dragon
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb33a673-f037-4017-af77-f3f1d5b5dfb1.png)
 
 I Dedicate in order to Nurture
 
