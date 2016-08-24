@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 07:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 07:28:58 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 180 Yellow Spectral Sun]]></title>
+            <description><![CDATA[<article><h1>KIN 180 Yellow Spectral Sun</h1><p>I Dissolve in order to Enlighten</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ed5d8fa-d6dd-4a03-b28c-13a3bb6419b6.png"></article>]]></description>
+            <link>http://canik.nl/kin-180-yellow-spectral-sun/index.html</link>
+            <guid isPermaLink="false">50d1447c-f7de-4d12-abf4-7852431fc092</guid>
+            <pubDate>Wed, 24 Aug 2016 07:28:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 181 Red Crystal Dragon]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-185-red-electric-serpent/index.html</link>
             <guid isPermaLink="false">cb4d36ef-4085-495f-99aa-3ae92f0884ec</guid>
             <pubDate>Mon, 27 Jun 2016 18:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 186 White Self-Existing Worldbridger]]></title>
-            <description><![CDATA[<article><h1>KIN 186 White Self-Existing Worldbridger</h1><p>I Define in order to Equalize</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f134086d-4973-45ee-8ce3-8c2554fcfd9d.png"></article>]]></description>
-            <link>http://canik.nl/kin-186-white-self-existing-worldbridger/index.html</link>
-            <guid isPermaLink="false">64472f4d-cb84-4a57-9df9-53de05a99201</guid>
-            <pubDate>Mon, 27 Jun 2016 18:54:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
