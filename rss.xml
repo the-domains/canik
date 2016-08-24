@@ -4,7 +4,7 @@
         <description><![CDATA[Canik ]]></description>
         <link>http://canik.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 22:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 07:27:43 GMT</lastBuildDate>
         <atom:link href="http://canik.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First steps]]></title>
@@ -12,6 +12,13 @@
             <link>http://canik.nl/1dd0b408-3dde-4853-bac1-c8c0879cbc2b/index.html</link>
             <guid isPermaLink="false">1dd0b408-3dde-4853-bac1-c8c0879cbc2b</guid>
             <pubDate>Fri, 05 Feb 2016 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIN 182 White Cosmic Wind]]></title>
+            <description><![CDATA[<article><h1>KIN 182 White Cosmic Wind</h1><p>I Endure in order to Communicate</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e78f16e1-0540-4bcc-8a25-4a62cae68f76.png"></article>]]></description>
+            <link>http://canik.nl/kin-182-white-cosmic-wind/index.html</link>
+            <guid isPermaLink="false">334947b4-bf6b-48a0-8814-62aed5734483</guid>
+            <pubDate>Wed, 24 Aug 2016 07:27:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KIN 67 Blue Lunar Hand]]></title>
@@ -68,13 +75,6 @@
             <link>http://canik.nl/kin-187-blue-overtone-hand/index.html</link>
             <guid isPermaLink="false">fb8db868-5634-4cc6-94bf-fd4eae4da418</guid>
             <pubDate>Mon, 27 Jun 2016 18:53:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KIN 188 Yellow Rhythmic Star]]></title>
-            <description><![CDATA[<article><h1>KIN 188 Yellow Rhythmic Star</h1><p>I Organize in order to Beautify</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/179c7321-ae47-4dc0-bded-3fd49eb05a3a.png"></article>]]></description>
-            <link>http://canik.nl/kin-188-yellow-rhythmic-star/index.html</link>
-            <guid isPermaLink="false">b5ea7497-ad15-41c7-97e1-3ff68606c643</guid>
-            <pubDate>Mon, 27 Jun 2016 18:52:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
