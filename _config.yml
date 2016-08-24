@@ -30,6 +30,9 @@ navigation:
   - name: About CANIK
     id: bcb9287f-4844-4a43-8ab8-e54ca955b896
     type: content
+  - name: 'YouTube '
+    url: 'https://www.youtube.com/channel/UCLAgKSwgq6W3wU-q19kIfxQ'
+    type: external
 favicon: null
 collections:
   - index:
